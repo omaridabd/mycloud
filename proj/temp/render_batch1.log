@@ -1,0 +1,92 @@
+5 116 116  tin=0 mode=card
+6 186 186  tin=0 mode=cover
+7 147 147  tin=0 mode=still
+8 164 164  tin=0 mode=still
+12 134 134  tin=0 mode=cover
+13 87 87 moving tin=36 mode=inset
+14 69 69 moving tin=44 mode=inset
+15 119 119  tin=0 mode=cover
+16 72 72 moving tin=33.9 mode=cover
+17 151 151  tin=0 mode=cover
+18 123 123  tin=0 mode=card
+19 182 182  tin=0 mode=card
+21 98 98 moving tin=14 mode=inset
+22 96 96 moving tin=1.8 mode=inset
+23 123 123 moving tin=0 mode=inset
+24 131 131 moving tin=24.2 mode=cover
+26 200 200 moving tin=0 mode=inset
+29 144 -1 ERR er: Invalid data found when processing input
+Cannot determine format of input stream 0:0 after EOF
+Error marking filters as finished
+Error while filtering: Invalid data found when processing input
+[vist#0:0/mjpeg @ 0x5636364c7a00] Decode error rate 1 exceeds maximum 0.666667
+[out#0/mp4 @ 0x563636af7340] Nothing was written into output file, because at least one of its streams received no packets.
+
+31 125 125 moving tin=8 mode=cover
+32 176 176  tin=0 mode=card
+33 317 317  tin=0 mode=cover
+34 149 149 moving tin=74 mode=inset
+35 106 106 moving tin=89 mode=inset
+36 142 142 moving tin=10 mode=inset
+38 197 197  tin=0 mode=cover
+39 142 142 moving tin=5.6 mode=inset
+40 86 86 moving tin=5 mode=inset
+42 153 153 moving tin=0 mode=inset
+43 124 124 moving tin=22 mode=inset
+44 166 166  tin=0 mode=still
+45 178 178 moving tin=0 mode=cover
+46 187 187  tin=0 mode=card
+47 264 264  tin=1.5 mode=cover
+48 148 148  tin=0 mode=card
+49 114 114 moving tin=44 mode=cover
+50 143 143 moving tin=8 mode=cover
+52 139 139  tin=0 mode=card
+54 150 150 moving tin=20 mode=inset
+56 82 82 moving tin=0 mode=inset
+57 228 228  tin=11.5 mode=cover
+58 200 200 moving tin=104 mode=inset
+59 155 155 moving tin=200 mode=inset
+60 105 105 moving tin=8 mode=cover
+61 88 88 moving tin=48 mode=inset
+65 94 94 moving tin=33.9 mode=cover
+68 310 310  tin=0 mode=cover
+70 140 140 moving tin=24.5 mode=cover
+71 138 138 moving tin=14 mode=cover
+72 225 225  tin=0 mode=card
+73 158 158  tin=0 mode=card
+74 359 359  tin=0 mode=cover
+75 215 215 moving tin=119 mode=inset
+76 303 303  tin=0 mode=cover
+78 333 333  tin=0 mode=cover
+79 240 240  tin=0 mode=card
+80 218 218 moving tin=14 mode=cover
+81 152 152 moving tin=30 mode=inset
+83 250 250  tin=0 mode=card
+84 297 297  tin=0 mode=cover
+86 176 176 moving tin=111 mode=inset
+87 281 281  tin=4.0 mode=cover
+88 168 168  tin=0 mode=card
+89 153 153 moving tin=46 mode=cover
+90 117 117 moving tin=20 mode=cover
+91 200 200  tin=0 mode=cover
+93 188 188 moving tin=4 mode=cover
+94 116 116 moving tin=2 mode=inset
+95 186 186  tin=0 mode=card
+96 162 162  tin=3.5 mode=cover
+99 133 133 moving tin=4 mode=inset
+101 256 256  tin=4.0 mode=cover
+102 165 165 moving tin=14 mode=inset
+103 288 288  tin=1.5 mode=cover
+104 193 193 moving tin=59 mode=inset
+105 287 287  tin=0 mode=cover
+107 153 153 moving tin=2 mode=cover
+110 123 123 moving tin=22 mode=inset
+112 254 254  tin=0 mode=cover
+113 166 166 moving tin=6 mode=inset
+114 177 177 moving tin=13 mode=cover
+115 154 154 moving tin=40 mode=inset
+116 200 200  tin=0 mode=card
+117 86 86 moving tin=4 mode=inset
+118 173 173  tin=0 mode=card
+119 105 105 moving tin=50 mode=cover
+120 93 93  tin=0 mode=card

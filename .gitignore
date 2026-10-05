@@ -1,0 +1,10 @@
+proj/temp/segs/
+proj/temp/video_only.mp4
+proj/temp/fonts/
+proj/temp/*.jpg
+proj/temp/qc/
+proj/renders/
+proj/sources/music/*.wav
+proj/final/video_1080p_final.mp4
+proj/downloads/yt/
+__pycache__/

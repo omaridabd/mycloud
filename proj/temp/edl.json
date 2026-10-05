@@ -1,0 +1,3165 @@
+[
+ {
+  "i": 1,
+  "t0": 0.0,
+  "t1": 3.74,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 40,
+  "note": "hook: aerial city footage + title",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات جوية بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "hook",
+    "المخا|إعلان حكومي بالسيطرة.. ونفي حوثي",
+    0.0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 2,
+  "t0": 3.74,
+  "t1": 7.3,
+  "src": "downloads/tg/tg_almasdaronline_32922.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "Reuters/government: forces took Mokha",
+  "key": "m22",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 · تصوير عبدالناصر الصديق",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "المخا · بحسب الناشر",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 3,
+  "t0": 7.3,
+  "t1": 10.48,
+  "src": "maps/mapA_mokha.mp4",
+  "kind": "map",
+  "tin": 3.0,
+  "note": "Mokha located",
+  "key": "mapA_mokha",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 4,
+  "t0": 10.48,
+  "t1": 17.58,
+  "src": "graphics/cards/H_sky_mokha.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "could not verify independently (Reuters) - real headline",
+  "key": "H_sky_mokha",
+  "ov": []
+ },
+ {
+  "i": 5,
+  "t0": 17.58,
+  "t1": 22.2,
+  "src": "graphics/cards/H_masirah_deny.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Ansar Allah rejected government account",
+  "key": "H_masirah_deny",
+  "ov": []
+ },
+ {
+  "i": 6,
+  "t0": 22.2,
+  "t1": 29.64,
+  "src": "maps/mapB_westcoast.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "welcome; west coast and around Taiz",
+  "key": "mapB_westcoast",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 7,
+  "t0": 29.64,
+  "t1": 35.54,
+  "src": "downloads/cm/cm_City_of_Taiz_Yemen_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "military calculations of both sides",
+  "key": "c_taiz",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · تعز 2013",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 8,
+  "t0": 35.54,
+  "t1": 42.06,
+  "src": "downloads/cm/cm_Bab_al_Mandab_Strait_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "battle and navigation security in Bab al-Mandab",
+  "key": "c_bab",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · باب المندب 2018",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 9,
+  "t0": 42.06,
+  "t1": 46.22,
+  "src": "downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "coalition announced broad op with air cover",
+  "key": "c_f15a",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مقاتلة F-15SA سعودية · 2024",
+    0,
+    null
+   ],
+   [
+    "section",
+    "أولاً: ماذا أُعلن؟",
+    0.2,
+    4.2
+   ]
+  ]
+ },
+ {
+  "i": 10,
+  "t0": 46.22,
+  "t1": 49.48,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 26,
+  "note": "intensive air cover",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 11,
+  "t0": 49.48,
+  "t1": 54.52,
+  "src": "graphics/cards/N_100.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "100 fighter jets",
+  "key": "N_100",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 12,
+  "t0": 54.52,
+  "t1": 59.88,
+  "src": "graphics/cards/N_324.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "324 targets, high value",
+  "key": "N_324",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 13,
+  "t0": 59.88,
+  "t1": 63.36,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 36,
+  "note": "high value targets (strike footage)",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 14,
+  "t0": 63.36,
+  "t1": 66.12,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 44,
+  "note": "government forces announced",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 15,
+  "t0": 66.12,
+  "t1": 70.86,
+  "src": "graphics/cards/N_1122.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "1122 targeting operations",
+  "key": "N_1122",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 16,
+  "t0": 70.86,
+  "t1": 73.78,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 33.9,
+  "note": "Giants & Homeland Shield in Dhubab",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "لافتة طريق ذوباب",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 17,
+  "t0": 73.78,
+  "t1": 79.8,
+  "src": "maps/mapC_dhubab_mokha.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "advance from Dhubab before Mokha announcement",
+  "key": "mapC_dhubab_mokha",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 18,
+  "t0": 79.8,
+  "t1": 84.72,
+  "src": "graphics/cards/P_sources.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "numbers attributed to who announced them",
+  "key": "P_sources",
+  "ov": []
+ },
+ {
+  "i": 19,
+  "t0": 84.72,
+  "t1": 92.02,
+  "src": "graphics/cards/P_bukhaiti.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Bukhaiti rejected news (no verbatim found)",
+  "key": "P_bukhaiti",
+  "ov": []
+ },
+ {
+  "i": 20,
+  "t0": 92.02,
+  "t1": 98.1,
+  "src": "downloads/tg/tg_army21ye_3803.mp4",
+  "kind": "video",
+  "tin": 10,
+  "note": "deterrent capabilities",
+  "key": "s03",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "الإعلام الحربي الحوثي · بيان 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "يحيى سريع · متحدث قوات الحوثيين",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 21,
+  "t0": 98.1,
+  "t1": 102.0,
+  "src": "downloads/tg/tg_AnsarAllahMC_333745.mp4",
+  "kind": "video",
+  "tin": 14,
+  "note": "strikes on vital facilities in Saudi",
+  "key": "a45",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "دخان من منشأة لأرامكو في الرياض · بحسب الناشر",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 22,
+  "t0": 102.0,
+  "t1": 105.86,
+  "src": "downloads/tg/tg_AnsarAllahMC_333725.mp4",
+  "kind": "video",
+  "tin": 1,
+  "note": "vital facilities (satellite)",
+  "key": "a25",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "صور أقمار اصطناعية نشرها إعلام الحوثيين",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 23,
+  "t0": 105.86,
+  "t1": 110.76,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "militarily: dense air cover",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "section",
+    "ثانياً: الحسابات العسكرية",
+    0.2,
+    4.2
+   ]
+  ]
+ },
+ {
+  "i": 24,
+  "t0": 110.76,
+  "t1": 115.98,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 24.2,
+  "note": "open coastal areas",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "طريق ساحلي مفتوح",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 25,
+  "t0": 115.98,
+  "t1": 122.52,
+  "src": "downloads/cm/cm_The_castle_above_Taiz_8683935588_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "mountain heights allow fortification",
+  "key": "c_castle",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مرتفعات تعز 2013",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 26,
+  "t0": 122.52,
+  "t1": 130.52,
+  "src": "downloads/tg/tg_almasdaronline_32919.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "reports of Houthi withdrawals",
+  "key": "m19",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ألغام تُركت في إحدى جبهات تعز · بحسب الناشر",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 27,
+  "t0": 130.52,
+  "t1": 136.16,
+  "src": "maps/mapD_taiz.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "size and reasons need clearer info",
+  "key": "mapD_taiz",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 28,
+  "t0": 136.16,
+  "t1": 145.34,
+  "src": "maps/mapD_taiz.mp4",
+  "kind": "map",
+  "tin": 5.64,
+  "note": "parallel: relative calm N/E of Taiz",
+  "key": "mapD_taiz",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 29,
+  "t0": 145.34,
+  "t1": 151.1,
+  "src": "downloads/cm/cm_Taiz_city_from_AlQahirah_Castle_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "fighting focused SW countryside",
+  "key": "c_taiz2",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مدينة تعز 2014",
+    0,
+    null
+   ],
+   [
+    "section",
+    "ثالثاً: جبهات تعز",
+    0.2,
+    4.2
+   ]
+  ]
+ },
+ {
+  "i": 30,
+  "t0": 151.1,
+  "t1": 158.04,
+  "src": "maps/mapD_taiz.mp4",
+  "kind": "map",
+  "tin": 8.0,
+  "note": "retreat in parts of Jabal Habashi",
+  "key": "mapD_taiz",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 31,
+  "t0": 158.04,
+  "t1": 163.06,
+  "src": "downloads/tg/tg_almasdaronline_32918.mp4",
+  "kind": "video",
+  "tin": 8,
+  "note": "gov attack in al-Birin",
+  "key": "m18",
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "كمين في منطقة البيرين غرب تعز",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 32,
+  "t0": 163.06,
+  "t1": 170.06,
+  "src": "graphics/cards/T_narratives.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "conflicting news, too early",
+  "key": "T_narratives",
+  "ov": []
+ },
+ {
+  "i": 33,
+  "t0": 170.06,
+  "t1": 182.76,
+  "src": "maps/mapE_taiz_aden.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "open road Taiz-south, supply lines",
+  "key": "mapE_taiz_aden",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 34,
+  "t0": 182.76,
+  "t1": 188.7,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 74,
+  "note": "Ansar Allah keep highland positions",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "جنوب غرب تعز · بحسب الناشر",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 35,
+  "t0": 188.7,
+  "t1": 192.94,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 89,
+  "note": "prevent breach of defensive lines",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 36,
+  "t0": 192.94,
+  "t1": 198.66,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 10,
+  "note": "changing scene, land battles",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "section",
+    "رابعاً: البعد الإقليمي والملاحة",
+    0.2,
+    4.2
+   ]
+  ]
+ },
+ {
+  "i": 37,
+  "t0": 198.66,
+  "t1": 203.4,
+  "src": "downloads/cm/cm_Flickr_Official_U_S_Navy_Imagery_USS_Enterprise_an.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "regional calculations, sea lanes",
+  "key": "c_uss",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "البحرية الأمريكية · Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · عبور باب المندب 2012",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 38,
+  "t0": 203.4,
+  "t1": 211.28,
+  "src": "maps/mapF_bab.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "gov & coalition: secure coast and strait",
+  "key": "mapF_bab",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 39,
+  "t0": 211.28,
+  "t1": 216.96,
+  "src": "downloads/tg/tg_almasirahnews_50948.mp4",
+  "kind": "video",
+  "tin": 3,
+  "note": "Ansar Allah keep field influence",
+  "key": "r48",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عبدالله صبري · وكيل خارجية سلطة صنعاء",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 40,
+  "t0": 216.96,
+  "t1": 220.4,
+  "src": "downloads/tg/tg_almasirahnews_50905.mp4",
+  "kind": "video",
+  "tin": 5,
+  "note": "ability to influence the confrontation",
+  "key": "r05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "محمود الجنيد · المكتب السياسي لأنصار الله",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 41,
+  "t0": 220.4,
+  "t1": 229.9,
+  "src": "maps/mapG_regional.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "regional targets? missiles & drones",
+  "key": "mapG_regional",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 42,
+  "t0": 229.9,
+  "t1": 236.04,
+  "src": "downloads/tg/tg_AnsarAllahMC_333822.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "announced threats",
+  "key": "a22",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "صور أقمار اصطناعية نشرها إعلام الحوثيين",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 43,
+  "t0": 236.04,
+  "t1": 241.0,
+  "src": "downloads/tg/tg_AnsarAllahMC_333802.mp4",
+  "kind": "video",
+  "tin": 22,
+  "note": "civilians and supplies",
+  "key": "a02",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "طريق في تعز · بحسب الناشر",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 44,
+  "t0": 241.0,
+  "t1": 247.64,
+  "src": "downloads/cm/cm_Bab_el_Mandeb_Seen_From_Midchannel_cropped_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "maritime navigation",
+  "key": "c_bab2",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · باب المندب 2023",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 45,
+  "t0": 247.64,
+  "t1": 254.76,
+  "src": "downloads/tg/tg_almasdaronline_32886.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "outcome cannot be decided by one statement",
+  "key": "m86",
+  "crop": [
+   27,
+   0,
+   746,
+   420
+  ],
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "رشاد العليمي · رئيس مجلس القيادة الرئاسي",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 46,
+  "t0": 254.76,
+  "t1": 262.24,
+  "src": "graphics/cards/Q_episode.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "share your reading",
+  "key": "Q_episode",
+  "ov": []
+ },
+ {
+  "i": 47,
+  "t0": 262.24,
+  "t1": 272.82,
+  "src": "maps/mapB_westcoast.mp4",
+  "kind": "map",
+  "tin": 1.5,
+  "note": "map of control on west coast",
+  "key": "mapB_westcoast",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 48,
+  "t0": 272.82,
+  "t1": 278.74,
+  "src": "graphics/cards/G_guest.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "guest joins",
+  "key": "G_guest",
+  "ov": []
+ },
+ {
+  "i": 49,
+  "t0": 278.74,
+  "t1": 283.26,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 44,
+  "note": "welcome, rapid developments",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات جوية بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 50,
+  "t0": 283.26,
+  "t1": 289.0,
+  "src": "downloads/tg/tg_almasdaronline_32886.mp4",
+  "kind": "video",
+  "tin": 8,
+  "note": "Yemen Dawn, decisive? as Alimi announced",
+  "key": "m86",
+  "crop": [
+   27,
+   0,
+   746,
+   420
+  ],
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "رشاد العليمي",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 51,
+  "t0": 289.0,
+  "t1": 295.78,
+  "src": "maps/mapR_taiz_sanaa.mp4",
+  "kind": "map",
+  "tin": 14,
+  "note": "toward Sanaa",
+  "key": "mapR_taiz_sanaa",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 52,
+  "t0": 295.78,
+  "t1": 301.32,
+  "src": "graphics/cards/Q1_early.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "too early; battles around Taiz",
+  "key": "Q1_early",
+  "ov": []
+ },
+ {
+  "i": 53,
+  "t0": 301.32,
+  "t1": 305.38,
+  "src": "maps/mapD_taiz.mp4",
+  "kind": "map",
+  "tin": 1.0,
+  "note": "around Taiz",
+  "key": "mapD_taiz",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 54,
+  "t0": 305.38,
+  "t1": 311.36,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 20,
+  "note": "since dawn Yemen Dawn began",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 55,
+  "t0": 311.36,
+  "t1": 326.72,
+  "src": "maps/mapH_sept.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "Houthi moved from south Hodeidah, Zabid to Bab al-Mandab, Kahbub",
+  "key": "mapH_sept",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 56,
+  "t0": 326.72,
+  "t1": 330.0,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "yesterday Houthi upper hand",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 57,
+  "t0": 330.0,
+  "t1": 339.12,
+  "src": "maps/mapE_taiz_aden.mp4",
+  "kind": "map",
+  "tin": 11.5,
+  "note": "took Turbah, cut Taiz-Aden road",
+  "key": "mapE_taiz_aden",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 58,
+  "t0": 339.12,
+  "t1": 347.12,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 104,
+  "note": "upper hand yesterday",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 59,
+  "t0": 347.12,
+  "t1": 353.32,
+  "src": "downloads/tg/tg_AnsarAllahMC_333802.mp4",
+  "kind": "video",
+  "tin": 200,
+  "note": "turning point for Houthi",
+  "key": "a02",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 60,
+  "t0": 353.32,
+  "t1": 357.5,
+  "src": "downloads/tg/tg_almasdaronline_32922.mp4",
+  "kind": "video",
+  "tin": 8,
+  "note": "today different",
+  "key": "m22",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "المخا · 5 أكتوبر · بحسب الناشر",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 61,
+  "t0": 357.5,
+  "t1": 361.06,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 48,
+  "note": "volatile field",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 62,
+  "t0": 361.06,
+  "t1": 367.72,
+  "src": "downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "air cover ~100 aircraft",
+  "key": "c_f15b",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-15SA سعودية · 2024",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 63,
+  "t0": 367.72,
+  "t1": 388.22,
+  "src": "maps/mapI_kahbub.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "attack from Kahbub mountains",
+  "key": "mapI_kahbub",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 64,
+  "t0": 388.22,
+  "t1": 396.04,
+  "src": "maps/mapI_kahbub.mp4",
+  "kind": "map",
+  "tin": 20.5,
+  "note": "took Mokha airport",
+  "key": "mapI_kahbub",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 65,
+  "t0": 396.04,
+  "t1": 399.8,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 33.9,
+  "note": "some call it Dhubab airport",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "لافتة طريق ذوباب",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 66,
+  "t0": 399.8,
+  "t1": 403.56,
+  "src": "maps/mapI_kahbub.mp4",
+  "kind": "map",
+  "tin": 32.2,
+  "note": "simple primitive airport",
+  "key": "mapI_kahbub",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 67,
+  "t0": 403.56,
+  "t1": 409.28,
+  "src": "maps/mapI_kahbub.mp4",
+  "kind": "map",
+  "tin": 36.0,
+  "note": "took Dhubab, moved north",
+  "key": "mapI_kahbub",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 68,
+  "t0": 409.28,
+  "t1": 421.66,
+  "src": "maps/mapJ_8km.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "8 km from Mokha",
+  "key": "mapJ_8km",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 69,
+  "t0": 421.66,
+  "t1": 441.58,
+  "src": "maps/mapK_dist.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "distances 36/34/30 km",
+  "key": "mapK_dist",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 70,
+  "t0": 441.58,
+  "t1": 447.2,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 24.5,
+  "note": "open land",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أرض ساحلية مفتوحة",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 71,
+  "t0": 447.2,
+  "t1": 452.72,
+  "src": "downloads/tg/tg_almasdaronline_32922.mp4",
+  "kind": "video",
+  "tin": 14,
+  "note": "little vegetation",
+  "key": "m22",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "الطريق في المخا · بحسب الناشر",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 72,
+  "t0": 452.72,
+  "t1": 461.72,
+  "src": "graphics/cards/T_dhubab.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Yemeni side statements; Houthi denies",
+  "key": "T_dhubab",
+  "ov": []
+ },
+ {
+  "i": 73,
+  "t0": 461.72,
+  "t1": 468.04,
+  "src": "graphics/cards/Q2_service.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "strategic service to legitimate forces",
+  "key": "Q2_service",
+  "ov": []
+ },
+ {
+  "i": 74,
+  "t0": 468.04,
+  "t1": 482.38,
+  "src": "maps/mapL_pocket.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "forces in Bab al-Mandab besieged",
+  "key": "mapL_pocket",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 75,
+  "t0": 482.38,
+  "t1": 491.0,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 119,
+  "note": "Houthi did not fortify; pulled forces",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 76,
+  "t0": 491.0,
+  "t1": 503.14,
+  "src": "maps/mapM_taiz_siege.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "reinforce around Taiz from south",
+  "key": "mapM_taiz_siege",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 77,
+  "t0": 503.14,
+  "t1": 524.28,
+  "src": "maps/mapN_axes.mp4",
+  "kind": "map",
+  "tin": 5.0,
+  "note": "path long: east to Mafraq, Khalid camp, north",
+  "key": "mapN_axes",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 78,
+  "t0": 524.28,
+  "t1": 537.6,
+  "src": "maps/mapO_fronts.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "battles in Hajjah, Dhale, Marib, Jawf, Sanaa",
+  "key": "mapO_fronts",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 79,
+  "t0": 537.6,
+  "t1": 547.22,
+  "src": "graphics/cards/Q3_realistic.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "be realistic, too early",
+  "key": "Q3_realistic",
+  "ov": []
+ },
+ {
+  "i": 80,
+  "t0": 547.22,
+  "t1": 555.9,
+  "src": "downloads/tg/tg_almasdaronline_32886.mp4",
+  "kind": "video",
+  "tin": 14,
+  "note": "what does Alimi count on",
+  "key": "m86",
+  "crop": [
+   27,
+   0,
+   746,
+   420
+  ],
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "رشاد العليمي",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 81,
+  "t0": 555.9,
+  "t1": 561.98,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 30,
+  "note": "Sanaa next? air strikes",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 82,
+  "t0": 561.98,
+  "t1": 566.23,
+  "src": "downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "coalition air strikes",
+  "key": "c_f15a",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مقاتلة F-15SA سعودية · 2024",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 83,
+  "t0": 566.23,
+  "t1": 576.23,
+  "src": "graphics/cards/Q4_air.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "air strikes will not decide",
+  "key": "Q4_air",
+  "ov": []
+ },
+ {
+  "i": 84,
+  "t0": 576.23,
+  "t1": 588.11,
+  "src": "maps/mapP_sanaa_hodeidah.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "geography Sanaa-Hodeidah",
+  "key": "mapP_sanaa_hodeidah",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 85,
+  "t0": 588.11,
+  "t1": 597.95,
+  "src": "downloads/cm/cm_Manakha_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "very difficult road",
+  "key": "c_manakha",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مناخة على طريق صنعاء–الحديدة · 1986",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 86,
+  "t0": 597.95,
+  "t1": 605.01,
+  "src": "downloads/tg/tg_AnsarAllahMC_333802.mp4",
+  "kind": "video",
+  "tin": 111,
+  "note": "hard to move forces",
+  "key": "a02",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "طريق جبلي · بحسب الناشر",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 87,
+  "t0": 605.01,
+  "t1": 616.23,
+  "src": "maps/mapP_sanaa_hodeidah.mp4",
+  "kind": "map",
+  "tin": 4.0,
+  "note": "Houthi took Hodeidah via Tihama plain",
+  "key": "mapP_sanaa_hodeidah",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 88,
+  "t0": 616.23,
+  "t1": 622.95,
+  "src": "graphics/cards/Q5_achieve.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "not diminishing achievement",
+  "key": "Q5_achieve",
+  "ov": []
+ },
+ {
+  "i": 89,
+  "t0": 622.95,
+  "t1": 629.07,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 46,
+  "note": "achievement credited",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات جوية بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 90,
+  "t0": 629.07,
+  "t1": 633.75,
+  "src": "downloads/tg/tg_almasdaronline_32886.mp4",
+  "kind": "video",
+  "tin": 20,
+  "note": "to Alimi, but early",
+  "key": "m86",
+  "crop": [
+   27,
+   0,
+   746,
+   420
+  ],
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "رشاد العليمي",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 91,
+  "t0": 633.75,
+  "t1": 641.75,
+  "src": "maps/mapQ_tihama.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "control whole Tihama coast",
+  "key": "mapQ_tihama",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 92,
+  "t0": 641.75,
+  "t1": 659.95,
+  "src": "maps/mapR_taiz_sanaa.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "from Taiz: Janad, Qaidah, Ibb, Samara, Yarim, Dhamar",
+  "key": "mapR_taiz_sanaa",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 93,
+  "t0": 659.95,
+  "t1": 667.47,
+  "src": "downloads/tg/tg_almasdaronline_32886.mp4",
+  "kind": "video",
+  "tin": 4,
+  "note": "political & military messages",
+  "key": "m86",
+  "crop": [
+   27,
+   0,
+   746,
+   420
+  ],
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "رشاد العليمي",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 94,
+  "t0": 667.47,
+  "t1": 672.13,
+  "src": "downloads/tg/tg_almasdaronline_32868.mp4",
+  "kind": "video",
+  "tin": 2,
+  "note": "raise morale",
+  "key": "m68",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "مأرب · موظفو مقهى من أبناء تعز التحقوا بالجبهة · بحسب الناشر",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 95,
+  "t0": 672.13,
+  "t1": 679.55,
+  "src": "graphics/cards/Q6_intl.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "requested international help",
+  "key": "Q6_intl",
+  "ov": []
+ },
+ {
+  "i": 96,
+  "t0": 679.55,
+  "t1": 686.03,
+  "src": "maps/mapC_dhubab_mokha.mp4",
+  "kind": "map",
+  "tin": 3.5,
+  "note": "expected steps after Dhubab",
+  "key": "mapC_dhubab_mokha",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 97,
+  "t0": 686.03,
+  "t1": 692.55,
+  "src": "maps/mapH_sept.mp4",
+  "kind": "map",
+  "tin": 11.0,
+  "note": "restore map to before September",
+  "key": "mapH_sept",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 98,
+  "t0": 692.55,
+  "t1": 704.21,
+  "src": "maps/mapN_axes.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "retake Mokha, Mafraq, Khalid camp",
+  "key": "mapN_axes",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 99,
+  "t0": 704.21,
+  "t1": 709.53,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 4,
+  "note": "node giving operational advantage",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 100,
+  "t0": 709.53,
+  "t1": 720.17,
+  "src": "maps/mapN_axes.mp4",
+  "kind": "map",
+  "tin": 16.98,
+  "note": "Khawkha districts north to old lines",
+  "key": "mapN_axes",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 101,
+  "t0": 720.17,
+  "t1": 730.39,
+  "src": "maps/mapM_taiz_siege.mp4",
+  "kind": "map",
+  "tin": 4.0,
+  "note": "break siege of Taiz first",
+  "key": "mapM_taiz_siege",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 102,
+  "t0": 730.39,
+  "t1": 737.0,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 14,
+  "note": "I mean the Houthis",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 103,
+  "t0": 737.0,
+  "t1": 748.53,
+  "src": "maps/mapL_pocket.mp4",
+  "kind": "map",
+  "tin": 1.5,
+  "note": "gov took Dhubab, can Houthi return",
+  "key": "mapL_pocket",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 104,
+  "t0": 748.53,
+  "t1": 756.23,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 59,
+  "note": "reorganizing",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 105,
+  "t0": 756.23,
+  "t1": 767.73,
+  "src": "maps/mapT_harad.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "withdrawing from Harad, Hajjah to Kahbub",
+  "key": "mapT_harad",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 106,
+  "t0": 767.73,
+  "t1": 785.97,
+  "src": "maps/mapU_habashi.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "Kahbub under army; Habashi contested",
+  "key": "mapU_habashi",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 107,
+  "t0": 785.97,
+  "t1": 792.09,
+  "src": "downloads/tg/tg_almasdaronline_32918.mp4",
+  "kind": "video",
+  "tin": 15.5,
+  "note": "fighting",
+  "key": "m18",
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "غرب تعز · 5 أكتوبر",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 108,
+  "t0": 792.09,
+  "t1": 801.79,
+  "src": "maps/mapU_habashi.mp4",
+  "kind": "map",
+  "tin": 24.36,
+  "note": "secure Wazi'iyah, Habashi",
+  "key": "mapU_habashi",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 109,
+  "t0": 801.79,
+  "t1": 815.95,
+  "src": "maps/mapN_axes.mp4",
+  "kind": "map",
+  "tin": 6.0,
+  "note": "if Mokha lost, reorganize around Mafraq",
+  "key": "mapN_axes",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 110,
+  "t0": 815.95,
+  "t1": 820.87,
+  "src": "downloads/tg/tg_almasdaronline_32919.mp4",
+  "kind": "video",
+  "tin": 22,
+  "note": "may be forced",
+  "key": "m19",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 111,
+  "t0": 820.87,
+  "t1": 827.87,
+  "src": "downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "if air support continues",
+  "key": "c_f15b",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.7,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-15SA سعودية · 2024",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 112,
+  "t0": 827.87,
+  "t1": 838.05,
+  "src": "graphics/cards/N_100_324.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "100 aircraft not sorties, 324 targets",
+  "key": "N_100_324",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 113,
+  "t0": 838.05,
+  "t1": 844.69,
+  "src": "downloads/tg/tg_almasdaronline_32902.mp4",
+  "kind": "video",
+  "tin": 6,
+  "note": "heavy Houthi losses",
+  "key": "m02",
+  "mode": "inset",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "مشاهد بثّتها القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "ضمن عملية «فجر اليمن»",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 114,
+  "t0": 844.69,
+  "t1": 851.77,
+  "src": "downloads/tg/tg_almasdaronline_32918.mp4",
+  "kind": "video",
+  "tin": 9,
+  "note": "forced to reposition / withdraw",
+  "key": "m18",
+  "mode": "cover",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "المصدر أونلاين (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية القوات الحكومية",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "البيرين · غرب تعز",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 115,
+  "t0": 851.77,
+  "t1": 857.91,
+  "src": "downloads/tg/tg_army21ye_3796.mp4",
+  "kind": "video",
+  "tin": 40,
+  "note": "command and control high",
+  "key": "s96",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "الإعلام الحربي الحوثي · 3 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "يحيى سريع · متحدث قوات الحوثيين",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 116,
+  "t0": 857.91,
+  "t1": 865.91,
+  "src": "graphics/cards/Q7_command.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "determination high; field capabilities",
+  "key": "Q7_command",
+  "ov": []
+ },
+ {
+  "i": 117,
+  "t0": 865.91,
+  "t1": 869.37,
+  "src": "downloads/tg/tg_AnsarAllahMC_333905.mp4",
+  "kind": "video",
+  "tin": 4,
+  "note": "field capabilities impose themselves",
+  "key": "a05",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "أنصار الله (تلغرام) · 4 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "رواية إعلام الحوثيين",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 118,
+  "t0": 869.37,
+  "t1": 876.27,
+  "src": "graphics/cards/Q8_shift.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "if momentum continues, shift",
+  "key": "Q8_shift",
+  "ov": []
+ },
+ {
+  "i": 119,
+  "t0": 876.27,
+  "t1": 880.5,
+  "src": "downloads/tg/tg_almasirahnews_50943.mp4",
+  "kind": "video",
+  "tin": 50,
+  "note": "early stages",
+  "key": "m43",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "قناة المسيرة (تلغرام) · 5 أكتوبر 2026",
+    0,
+    null
+   ],
+   [
+    "label",
+    "لقطات جوية بثّتها قناة المسيرة",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 120,
+  "t0": 880.5,
+  "t1": 884.218776,
+  "src": "graphics/cards/E_end.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "restore map to before September / end card",
+  "key": "E_end",
+  "ov": []
+ }
+]

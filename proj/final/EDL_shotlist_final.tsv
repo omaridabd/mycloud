@@ -1,0 +1,121 @@
+shot	start	end	dur_s	type	source	in_point_s	labels_overlays	narration_beat
+1	00:00.00	00:03.74	3.74	video	downloads/tg/tg_almasirahnews_50943.mp4	40	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات جوية بثّتها قناة المسيرة | hook:المخا|إعلان حكومي بالسيطرة.. ونفي حوثي	hook: aerial city footage + title
+2	00:03.74	00:07.30	3.56	video	downloads/tg/tg_almasdaronline_32922.mp4	0	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 · تصوير عبدالناصر الصديق | loc:المخا · بحسب الناشر	Reuters/government: forces took Mokha
+3	00:07.30	00:10.48	3.18	map	maps/mapA_mokha.mp4	3.0		Mokha located
+4	00:10.48	00:17.58	7.10	card	graphics/cards/H_sky_mokha.png	0		could not verify independently (Reuters) - real headline
+5	00:17.58	00:22.20	4.62	card	graphics/cards/H_masirah_deny.png	0		Ansar Allah rejected government account
+6	00:22.20	00:29.64	7.44	map	maps/mapB_westcoast.mp4	0		welcome; west coast and around Taiz
+7	00:29.64	00:35.54	5.90	still	downloads/cm/cm_City_of_Taiz_Yemen_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · تعز 2013	military calculations of both sides
+8	00:35.54	00:42.06	6.52	still	downloads/cm/cm_Bab_al_Mandab_Strait_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · باب المندب 2018	battle and navigation security in Bab al-Mandab
+9	00:42.06	00:46.22	4.16	still	downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مقاتلة F-15SA سعودية · 2024 | section:أولاً: ماذا أُعلن؟	coalition announced broad op with air cover
+10	00:46.22	00:49.48	3.26	video	downloads/tg/tg_almasdaronline_32902.mp4	26	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	intensive air cover
+11	00:49.48	00:54.52	5.04	map	graphics/cards/N_100.mp4	0		100 fighter jets
+12	00:54.52	00:59.88	5.36	map	graphics/cards/N_324.mp4	0		324 targets, high value
+13	00:59.88	01:03.36	3.48	video	downloads/tg/tg_almasdaronline_32902.mp4	36	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	high value targets (strike footage)
+14	01:03.36	01:06.12	2.76	video	downloads/tg/tg_almasdaronline_32902.mp4	44	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	government forces announced
+15	01:06.12	01:10.86	4.74	map	graphics/cards/N_1122.mp4	0		1122 targeting operations
+16	01:10.86	01:13.78	2.92	video	downloads/tg/tg_almasirahnews_50943.mp4	33.9	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات بثّتها قناة المسيرة | loc:لافتة طريق ذوباب	Giants & Homeland Shield in Dhubab
+17	01:13.78	01:19.80	6.02	map	maps/mapC_dhubab_mokha.mp4	0		advance from Dhubab before Mokha announcement
+18	01:19.80	01:24.72	4.92	card	graphics/cards/P_sources.png	0		numbers attributed to who announced them
+19	01:24.72	01:32.02	7.30	card	graphics/cards/P_bukhaiti.png	0		Bukhaiti rejected news (no verbatim found)
+20	01:32.02	01:38.10	6.08	video	downloads/tg/tg_army21ye_3803.mp4	10	credit:الإعلام الحربي الحوثي · بيان 4 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:يحيى سريع · متحدث قوات الحوثيين	deterrent capabilities
+21	01:38.10	01:42.00	3.90	video	downloads/tg/tg_AnsarAllahMC_333745.mp4	14	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:دخان من منشأة لأرامكو في الرياض · بحسب الناشر	strikes on vital facilities in Saudi
+22	01:42.00	01:45.86	3.86	video	downloads/tg/tg_AnsarAllahMC_333725.mp4	1.8	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:صور أقمار اصطناعية نشرها إعلام الحوثيين	vital facilities (satellite)
+23	01:45.86	01:50.76	4.90	video	downloads/tg/tg_almasdaronline_32902.mp4	0	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن» | section:ثانياً: الحسابات العسكرية	militarily: dense air cover
+24	01:50.76	01:55.98	5.22	video	downloads/tg/tg_almasirahnews_50943.mp4	24.2	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات بثّتها قناة المسيرة | loc:طريق ساحلي مفتوح	open coastal areas
+25	01:55.98	02:02.52	6.54	still	downloads/cm/cm_The_castle_above_Taiz_8683935588_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مرتفعات تعز 2013	mountain heights allow fortification
+26	02:02.52	02:10.52	8.00	video	downloads/tg/tg_almasdaronline_32919.mp4	0	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:رواية القوات الحكومية | loc:ألغام تُركت في إحدى جبهات تعز · بحسب الناشر	reports of Houthi withdrawals
+27	02:10.52	02:16.16	5.64	map	maps/mapD_taiz.mp4	0		size and reasons need clearer info
+28	02:16.16	02:25.34	9.18	map	maps/mapD_taiz.mp4	5.64		parallel: relative calm N/E of Taiz
+29	02:25.34	02:31.10	5.76	still	downloads/cm/cm_Taiz_city_from_AlQahirah_Castle_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مدينة تعز 2014 | section:ثالثاً: جبهات تعز	fighting focused SW countryside
+30	02:31.10	02:38.04	6.94	map	maps/mapD_taiz.mp4	8.0		retreat in parts of Jabal Habashi
+31	02:38.04	02:43.06	5.02	video	downloads/tg/tg_almasdaronline_32918.mp4	8	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:رواية القوات الحكومية | loc:كمين في منطقة البيرين غرب تعز	gov attack in al-Birin
+32	02:43.06	02:50.06	7.00	card	graphics/cards/T_narratives.png	0		conflicting news, too early
+33	02:50.06	03:02.76	12.70	map	maps/mapE_taiz_aden.mp4	0		open road Taiz-south, supply lines
+34	03:02.76	03:08.70	5.94	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	74	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:جنوب غرب تعز · بحسب الناشر	Ansar Allah keep highland positions
+35	03:08.70	03:12.94	4.24	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	89	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	prevent breach of defensive lines
+36	03:12.94	03:18.66	5.72	video	downloads/tg/tg_almasdaronline_32902.mp4	10	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن» | section:رابعاً: البعد الإقليمي والملاحة	changing scene, land battles
+37	03:18.66	03:23.40	4.74	still	downloads/cm/cm_Flickr_Official_U_S_Navy_Imagery_USS_Enterprise_an.jpg	0	credit:البحرية الأمريكية · Wikimedia Commons | archive:صورة أرشيفية · عبور باب المندب 2012	regional calculations, sea lanes
+38	03:23.40	03:31.28	7.88	map	maps/mapF_bab.mp4	0		gov & coalition: secure coast and strait
+39	03:31.28	03:36.96	5.68	video	downloads/tg/tg_almasirahnews_50948.mp4	5.6	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:عبدالله صبري · وكيل خارجية سلطة صنعاء	Ansar Allah keep field influence
+40	03:36.96	03:40.40	3.44	video	downloads/tg/tg_almasirahnews_50905.mp4	5	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:محمود الجنيد · المكتب السياسي لأنصار الله	ability to influence the confrontation
+41	03:40.40	03:49.90	9.50	map	maps/mapG_regional.mp4	0		regional targets? missiles & drones
+42	03:49.90	03:56.04	6.14	video	downloads/tg/tg_AnsarAllahMC_333822.mp4	0	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:صور أقمار اصطناعية نشرها إعلام الحوثيين	announced threats
+43	03:56.04	04:01.00	4.96	video	downloads/tg/tg_AnsarAllahMC_333802.mp4	22	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:طريق في تعز · بحسب الناشر	civilians and supplies
+44	04:01.00	04:07.64	6.64	still	downloads/cm/cm_Bab_el_Mandeb_Seen_From_Midchannel_cropped_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · باب المندب 2023	maritime navigation
+45	04:07.64	04:14.76	7.12	video	downloads/tg/tg_almasdaronline_32886.mp4	0	credit:المصدر أونلاين (تلغرام) · 4 أكتوبر 2026 | loc:رشاد العليمي · رئيس مجلس القيادة الرئاسي	outcome cannot be decided by one statement
+46	04:14.76	04:22.24	7.48	card	graphics/cards/Q_episode.png	0		share your reading
+47	04:22.24	04:32.82	10.58	map	maps/mapB_westcoast.mp4	1.5		map of control on west coast
+48	04:32.82	04:38.74	5.92	card	graphics/cards/G_guest.png	0		guest joins
+49	04:38.74	04:43.26	4.52	video	downloads/tg/tg_almasirahnews_50943.mp4	44	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات جوية بثّتها قناة المسيرة	welcome, rapid developments
+50	04:43.26	04:49.00	5.74	video	downloads/tg/tg_almasdaronline_32886.mp4	8	credit:المصدر أونلاين (تلغرام) · 4 أكتوبر 2026 | loc:رشاد العليمي	Yemen Dawn, decisive? as Alimi announced
+51	04:49.00	04:55.78	6.78	map	maps/mapR_taiz_sanaa.mp4	14		toward Sanaa
+52	04:55.78	05:01.32	5.54	card	graphics/cards/Q1_early.png	0		too early; battles around Taiz
+53	05:01.32	05:05.38	4.06	map	maps/mapD_taiz.mp4	1.0		around Taiz
+54	05:05.38	05:11.36	5.98	video	downloads/tg/tg_almasdaronline_32902.mp4	20	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	since dawn Yemen Dawn began
+55	05:11.36	05:26.72	15.36	map	maps/mapH_sept.mp4	0		Houthi moved from south Hodeidah, Zabid to Bab al-Mandab, Kahbub
+56	05:26.72	05:30.00	3.28	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	0	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	yesterday Houthi upper hand
+57	05:30.00	05:39.12	9.12	map	maps/mapE_taiz_aden.mp4	11.5		took Turbah, cut Taiz-Aden road
+58	05:39.12	05:47.12	8.00	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	104	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	upper hand yesterday
+59	05:47.12	05:53.32	6.20	video	downloads/tg/tg_AnsarAllahMC_333802.mp4	200	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:رواية إعلام الحوثيين	turning point for Houthi
+60	05:53.32	05:57.50	4.18	video	downloads/tg/tg_almasdaronline_32922.mp4	8	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | loc:المخا · 5 أكتوبر · بحسب الناشر	today different
+61	05:57.50	06:01.06	3.56	video	downloads/tg/tg_almasdaronline_32902.mp4	48	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	volatile field
+62	06:01.06	06:07.72	6.66	still	downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-15SA سعودية · 2024	air cover ~100 aircraft
+63	06:07.72	06:28.22	20.50	map	maps/mapI_kahbub.mp4	0		attack from Kahbub mountains
+64	06:28.22	06:36.04	7.82	map	maps/mapI_kahbub.mp4	20.5		took Mokha airport
+65	06:36.04	06:39.80	3.76	video	downloads/tg/tg_almasirahnews_50943.mp4	33.9	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات بثّتها قناة المسيرة | loc:لافتة طريق ذوباب	some call it Dhubab airport
+66	06:39.80	06:43.56	3.76	map	maps/mapI_kahbub.mp4	32.2		simple primitive airport
+67	06:43.56	06:49.28	5.72	map	maps/mapI_kahbub.mp4	36.0		took Dhubab, moved north
+68	06:49.28	07:01.66	12.38	map	maps/mapJ_8km.mp4	0		8 km from Mokha
+69	07:01.66	07:21.58	19.92	map	maps/mapK_dist.mp4	0		distances 36/34/30 km
+70	07:21.58	07:27.20	5.62	video	downloads/tg/tg_almasirahnews_50943.mp4	24.5	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات بثّتها قناة المسيرة | loc:أرض ساحلية مفتوحة	open land
+71	07:27.20	07:32.72	5.52	video	downloads/tg/tg_almasdaronline_32922.mp4	14	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | loc:الطريق في المخا · بحسب الناشر	little vegetation
+72	07:32.72	07:41.72	9.00	card	graphics/cards/T_dhubab.png	0		Yemeni side statements; Houthi denies
+73	07:41.72	07:48.04	6.32	card	graphics/cards/Q2_service.png	0		strategic service to legitimate forces
+74	07:48.04	08:02.38	14.34	map	maps/mapL_pocket.mp4	0		forces in Bab al-Mandab besieged
+75	08:02.38	08:11.00	8.62	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	119	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	Houthi did not fortify; pulled forces
+76	08:11.00	08:23.14	12.14	map	maps/mapM_taiz_siege.mp4	0		reinforce around Taiz from south
+77	08:23.14	08:44.28	21.14	map	maps/mapN_axes.mp4	5.0		path long: east to Mafraq, Khalid camp, north
+78	08:44.28	08:57.60	13.32	map	maps/mapO_fronts.mp4	0		battles in Hajjah, Dhale, Marib, Jawf, Sanaa
+79	08:57.60	09:07.22	9.62	card	graphics/cards/Q3_realistic.png	0		be realistic, too early
+80	09:07.22	09:15.90	8.68	video	downloads/tg/tg_almasdaronline_32886.mp4	14	credit:المصدر أونلاين (تلغرام) · 4 أكتوبر 2026 | loc:رشاد العليمي	what does Alimi count on
+81	09:15.90	09:21.98	6.08	video	downloads/tg/tg_almasdaronline_32902.mp4	30	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	Sanaa next? air strikes
+82	09:21.98	09:26.23	4.25	still	downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مقاتلة F-15SA سعودية · 2024	coalition air strikes
+83	09:26.23	09:36.23	10.00	card	graphics/cards/Q4_air.png	0		air strikes will not decide
+84	09:36.23	09:48.11	11.88	map	maps/mapP_sanaa_hodeidah.mp4	0		geography Sanaa-Hodeidah
+85	09:48.11	09:57.95	9.84	still	downloads/cm/cm_Manakha_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مناخة على طريق صنعاء–الحديدة · 1986	very difficult road
+86	09:57.95	10:05.01	7.06	video	downloads/tg/tg_AnsarAllahMC_333802.mp4	111	credit:أنصار الله (تلغرام) · 3 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:طريق جبلي · بحسب الناشر	hard to move forces
+87	10:05.01	10:16.23	11.22	map	maps/mapP_sanaa_hodeidah.mp4	4.0		Houthi took Hodeidah via Tihama plain
+88	10:16.23	10:22.95	6.72	card	graphics/cards/Q5_achieve.png	0		not diminishing achievement
+89	10:22.95	10:29.07	6.12	video	downloads/tg/tg_almasirahnews_50943.mp4	46	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات جوية بثّتها قناة المسيرة	achievement credited
+90	10:29.07	10:33.75	4.68	video	downloads/tg/tg_almasdaronline_32886.mp4	20	credit:المصدر أونلاين (تلغرام) · 4 أكتوبر 2026 | loc:رشاد العليمي	to Alimi, but early
+91	10:33.75	10:41.75	8.00	map	maps/mapQ_tihama.mp4	0		control whole Tihama coast
+92	10:41.75	10:59.95	18.20	map	maps/mapR_taiz_sanaa.mp4	0		from Taiz: Janad, Qaidah, Ibb, Samara, Yarim, Dhamar
+93	10:59.95	11:07.47	7.52	video	downloads/tg/tg_almasdaronline_32886.mp4	4	credit:المصدر أونلاين (تلغرام) · 4 أكتوبر 2026 | loc:رشاد العليمي	political & military messages
+94	11:07.47	11:12.13	4.66	video	downloads/tg/tg_almasdaronline_32868.mp4	2	credit:المصدر أونلاين (تلغرام) · 3 أكتوبر 2026 | loc:مأرب · موظفو مقهى من أبناء تعز التحقوا بالجبهة · بحسب الناشر	raise morale
+95	11:12.13	11:19.55	7.42	card	graphics/cards/Q6_intl.png	0		requested international help
+96	11:19.55	11:26.03	6.48	map	maps/mapC_dhubab_mokha.mp4	3.5		expected steps after Dhubab
+97	11:26.03	11:32.55	6.52	map	maps/mapH_sept.mp4	11.0		restore map to before September
+98	11:32.55	11:44.21	11.66	map	maps/mapN_axes.mp4	0		retake Mokha, Mafraq, Khalid camp
+99	11:44.21	11:49.53	5.32	video	downloads/tg/tg_almasdaronline_32902.mp4	4	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	node giving operational advantage
+100	11:49.53	12:00.17	10.64	map	maps/mapN_axes.mp4	16.98		Khawkha districts north to old lines
+101	12:00.17	12:10.39	10.22	map	maps/mapM_taiz_siege.mp4	4.0		break siege of Taiz first
+102	12:10.39	12:17.00	6.61	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	14	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	I mean the Houthis
+103	12:17.00	12:28.53	11.53	map	maps/mapL_pocket.mp4	1.5		gov took Dhubab, can Houthi return
+104	12:28.53	12:36.23	7.70	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	59	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	reorganizing
+105	12:36.23	12:47.73	11.50	map	maps/mapT_harad.mp4	0		withdrawing from Harad, Hajjah to Kahbub
+106	12:47.73	13:05.97	18.24	map	maps/mapU_habashi.mp4	0		Kahbub under army; Habashi contested
+107	13:05.97	13:12.09	6.12	video	downloads/tg/tg_almasdaronline_32918.mp4	15.5	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:رواية القوات الحكومية | loc:غرب تعز · 5 أكتوبر	fighting
+108	13:12.09	13:21.79	9.70	map	maps/mapU_habashi.mp4	24.36		secure Wazi'iyah, Habashi
+109	13:21.79	13:35.95	14.16	map	maps/mapN_axes.mp4	6.0		if Mokha lost, reorganize around Mafraq
+110	13:35.95	13:40.87	4.92	video	downloads/tg/tg_almasdaronline_32919.mp4	22	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:رواية القوات الحكومية	may be forced
+111	13:40.87	13:47.87	7.00	still	downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-15SA سعودية · 2024	if air support continues
+112	13:47.87	13:58.05	10.18	map	graphics/cards/N_100_324.mp4	0		100 aircraft not sorties, 324 targets
+113	13:58.05	14:04.69	6.64	video	downloads/tg/tg_almasdaronline_32902.mp4	6	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:مشاهد بثّتها القوات الحكومية | loc:ضمن عملية «فجر اليمن»	heavy Houthi losses
+114	14:04.69	14:11.77	7.08	video	downloads/tg/tg_almasdaronline_32918.mp4	9	credit:المصدر أونلاين (تلغرام) · 5 أكتوبر 2026 | label:رواية القوات الحكومية | loc:البيرين · غرب تعز	forced to reposition / withdraw
+115	14:11.77	14:17.91	6.14	video	downloads/tg/tg_army21ye_3796.mp4	40	credit:الإعلام الحربي الحوثي · 3 أكتوبر 2026 | label:رواية إعلام الحوثيين | loc:يحيى سريع · متحدث قوات الحوثيين	command and control high
+116	14:17.91	14:25.91	8.00	card	graphics/cards/Q7_command.png	0		determination high; field capabilities
+117	14:25.91	14:29.37	3.46	video	downloads/tg/tg_AnsarAllahMC_333905.mp4	4	credit:أنصار الله (تلغرام) · 4 أكتوبر 2026 | label:رواية إعلام الحوثيين	field capabilities impose themselves
+118	14:29.37	14:36.27	6.90	card	graphics/cards/Q8_shift.png	0		if momentum continues, shift
+119	14:36.27	14:40.50	4.23	video	downloads/tg/tg_almasirahnews_50943.mp4	50	credit:قناة المسيرة (تلغرام) · 5 أكتوبر 2026 | label:لقطات جوية بثّتها قناة المسيرة	early stages
+120	14:40.50	14:44.22	3.72	card	graphics/cards/E_end.png	0		restore map to before September / end card

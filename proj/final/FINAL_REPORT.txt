@@ -1,0 +1,97 @@
+FINAL REPORT — المخا / فجر اليمن · قراءة عسكرية مع اللواء فايز الدويري
+==========================================================================
+
+FILE
+  name        : video_1080p_final.mp4
+  path        : proj/final/video_1080p_final.mp4  (also committed as split parts in proj/final/parts/, see README there)
+  duration    : 14:44.20 (884.200 s)  — audio master 884.219 s, video 22105 frames = round(884.219 x 25)
+  video       : H.264 High, 1920x1080, 25 fps, yuv420p, CRF 17 (per shot), ~2.9 Mb/s average
+  audio       : AAC-LC 256 kb/s, 48 kHz stereo (twoloop coder)
+  loudness    : -15.1 LUFS integrated, true peak -2.8 dBTP (measured on the ENCODED file)
+  size        : ~328 MB
+  shots       : 120
+
+NARRATION
+  Uploaded audio_5_oct.mp3 is the master timeline. It was NOT cut, re-ordered, re-timed or regenerated.
+  Processing applied to the narration: +3.4 dB gain, 16 kHz low-pass, limiter at -3.1 dBFS.
+  Music bed: synthesized ambient drone (ffmpeg, no third-party licence needed; Envato connector needs reconnect),
+  -24 LUFS source at 0.45 gain, side-chain ducked by the voice.
+
+STRUCTURE
+  00:00  Hook — aerial city footage aired by Al-Masirah + title «المخا: إعلان حكومي بالسيطرة.. ونفي حوثي»
+  00:04  Government claim (Almasdar Online clip "Al-Nasr St., Mokha") → map → Sky News Arabia headline card
+         (+ chip «رويترز: تعذّر التحقق بشكل مستقل») → Houthi denial card (Al-Masirah headline)
+  00:22  Intro: west-coast map, Taiz & Bab al-Mandab archive
+  00:42  أولاً: ماذا أُعلن؟ — F-15SA archive, strike footage, counters 100 / 324 / 1122 (+1747), Dhubab sign,
+         Dhubab→Mokha map, "who announced what" card
+  01:25  Houthi position — al-Bukhaiti points card, Yahya Saree statement, Aramco fire + satellite (Houthi media)
+  01:46  ثانياً: الحسابات العسكرية — open coast vs highlands, landmines left in Taiz front, Taiz fronts map
+  02:25  ثالثاً: جبهات تعز — Jabal Habashi, al-Birin ambush, two-narratives card, Taiz–Aden supply road map
+  03:13  رابعاً: البعد الإقليمي والملاحة — Bab al-Mandab map, Houthi officials, regional targets map, satellite
+  04:07  Alimi, question card, west-coast map
+  04:33  Guest card: اللواء د. فايز الدويري (audio interview, no lip-sync; persistent tag top-left)
+  04:43–14:40  Interview illustrated sentence by sentence: 15 animated maps (Sept Houthi advance, Kahbub launch,
+         Mokha airport/Dhubab, 8 km ring, distances 36/34/30 km, Bab al-Mandab pocket, Taiz siege, Mafraq/Khalid camp,
+         other fronts, Sanaa–Hodeidah road & Tihama, Taiz→Sanaa route, Harad→Kahbub, Habashi/Wazi'iyah),
+         8 attributed quote cards, 100/324 counter, real footage.
+  14:40  End card «تحوّل في مراحله الأولى» + sources.
+
+MAIN REAL SOURCES (Telegram, downloaded directly from t.me public previews)
+  Almasdar Online (gov-side):  t.me/almasdaronline/32922 (5 Oct, Mokha street, filmed by Abdulnaser al-Siddiq)
+                               /32902 (5 Oct, armed forces "1122 operations" strike video)
+                               /32886 (4 Oct, al-Alimi announces operations)
+                               /32918 (5 Oct, ambush in al-Birin west of Taiz)  /32919 (5 Oct, mines left behind)
+                               /32868 (3 Oct, Marib café)
+  Al-Masirah (Houthi):         t.me/almasirahnews/50943 (5 Oct, "military source denies enemy claims on Dhubab & Bab al-Mandab"
+                               — aerial city + Dhubab road-sign footage)  /50948 (Abdullah Sabri)  /50905 (Mahmoud al-Junaid)
+  Ansar Allah / war media:     t.me/AnsarAllahMC/333745 (3 Oct Aramco fire, Riyadh)  /333725 & /333822 (satellite)
+                               /333905 (4 Oct, Houthi op SW Taiz)  /333802 (3 Oct, Taiz roads)
+                               t.me/army21ye/3803 (4 Oct Saree statement)  /3796 (3 Oct Saree statement)
+  Wikimedia Commons (archive, labelled with year): City of Taiz 2013; Taiz from al-Qahira castle 2014; castle above Taiz 2013;
+     Bab al-Mandab satellite 2018; Bab-el-Mandeb mid-channel 2023; USS Enterprise transit 2012 (US Navy, PD);
+     F-15SA Fairford 2024 (CC0); F-15SA 5D4 2024 (CC BY 2.0); Manakha 1986 (CC BY-SA 3.0). Metadata: downloads/cm/meta.json
+  Maps: Natural Earth 10m (public domain); place coordinates from OpenStreetMap Nominatim (5 Oct 2026).
+
+FACT SOURCES (verified via WebFetch, 5 Oct 2026)
+  Sky News Arabia  — "القوات الحكومية اليمنية تعلن السيطرة على مدينة المخا" (SABA military source; Saudi MoD: 100 jets, 324 targets;
+                     spokesman Majed al-Nuzaili; Alimi "Yemen Dawn")
+  Al Jazeera Net   — 1122 targeting operations, 1747 "neutralized" (5 Oct)
+  Al-Araby al-Jadeed — "إعلان فجر اليمن... والحكومة تستعيد المخا وباب المندب" (5 Oct)
+  Tawassoul / Anadolu — "لم يتسن التحقق بصورة مستقلة من هذه المعطيات"; Houthis dispute (5 Oct)
+  Wikipedia "2026 Yemen offensives", Security Council Report Oct 2026 forecast — Houthi capture of Mokha 10 Sep, Perim/Dhubab 11 Sep
+
+FAILED / UNAVAILABLE SOURCES
+  YouTube downloads: blocked (HTTP 403 / bot check) — search worked, no video used.
+  Telegram "Media is too big" posts (e.g. army21ye/3810-3812, almasdaronline/32924 & 32928) — no preview URL, skipped.
+  Envato: connector needs reconnect → no Envato assets used.
+  Al-Masirah / Saudi MoD official jet footage: not found on reachable channels → Commons F-15SA archive stills, labelled.
+
+EDITORIAL / ACCURACY NOTES
+  1. Reuters attribution: Reuters' own article was not reachable; the "could not independently verify" line is reported by Arabic
+     outlets citing Reuters and by Tawassoul/Anadolu. Shown as a chip on the Sky News headline card.
+  2. al-Bukhaiti: narration says he rejected the reports, cited "deterrent capabilities" and warned of strikes on vital Saudi
+     facilities. No verbatim text was found (only paraphrases + a 4 Oct tweet about "leave before it's too late").
+     Shown as a points card «بحسب ما نُقل عنه» with chip «لم نعثر على النص الحرفي للتصريح». No photo used (Commons only has
+     ALI al-Bukhaiti — a different person — deliberately NOT used).
+  3. Aerial city footage (hook, 04:38, 10:22, 14:36) is from Al-Masirah's 5 Oct report; the city is not named on screen
+     (labelled «لقطات جوية بثّتها قناة المسيرة») because the location could not be independently confirmed.
+  4. Almasdar clip 32922 labelled «المخا · بحسب الناشر» (publisher's caption).
+  5. Guest figures shown as the guest's: distances 36/34/30 km (straight-line OSM distance Mokha–Dhubab town ≈ 45 km), "8 km
+     from Mokha" (chip «غير مؤكد»), Harad→Kahbub redeployment (chip «لم يتأكد»), "Alimi requested international help" (chip «بحسب الضيف»).
+  6. Mafraq al-Mokha / Khalid bin al-Walid camp pin is approximate (labelled «تقريبي»); al-Birin shown as a text chip, not a pin,
+     because OSM's "al-Birin" (Sabir al-Mawadim, south of Taiz) conflicts with the publisher's "west of Taiz".
+  7. Houthi-media material always carries «رواية إعلام الحوثيين»; government material «رواية القوات الحكومية» / «مشاهد بثّتها القوات الحكومية».
+  8. Excluded on purpose: clips showing minors (almasdaronline/32914, /32929) and graphic injuries (AnsarAllahMC/333955, parts of /333905).
+
+CONFIRMATIONS
+  [x] No interceptor/air-defence imagery used (no Patriot/THAAD/Aegis/radars); air campaign shown with F-15SA archive + strike FLIR.
+  [x] Every shot semantically reviewed on mid-frame contact sheets (3 sheets, 120 shots); fixes applied to shots 31, 91, 106, 107, 108, 114.
+  [x] First 2 s of every footage shot checked with freezedetect → 0 frozen starts (QC_motion_report_final.txt).
+  [x] Whole file: 0 static holds ≥4 s; 0 decode errors; frames 22105/22105.
+
+RESUME / RE-RENDER
+  python3 graphics/maps.py [mapX]      # animated maps (specs in graphics/map_specs.py)
+  python3 graphics/cards.py            # cards + counters
+  python3 temp/edl_build.py            # scene plan -> temp/edl.json
+  python3 graphics/render.py [ids]     # per-shot segments -> temp/segs/
+  see proj/README.md for concat / audio mix / mux commands.

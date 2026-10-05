@@ -1,0 +1,127 @@
+QC motion report — video_1080p_final.mp4
+Per-shot: frames wanted vs rendered; footage shots checked with freezedetect (n=0.002, d=1.6s) on first 2 s.
+Whole file: freezedetect n=0.001 d=4s at 480p -> 0 static holds (maps/counters have slow push-in).
+
+shot	want	got	first2s	in_point	framing	source
+1	94	94	moving	40	cover	downloads/tg/tg_almasirahnews_50943.mp4
+2	88	88	moving	0	cover	downloads/tg/tg_almasdaronline_32922.mp4
+3	80	80	n/a (graphic)	3.0	cover	maps/mapA_mokha.mp4
+4	177	177	n/a (graphic)	0	card	graphics/cards/H_sky_mokha.png
+5	116	116	n/a (graphic)	0	card	graphics/cards/H_masirah_deny.png
+6	186	186	n/a (graphic)	0	cover	maps/mapB_westcoast.mp4
+7	147	147	n/a (graphic)	0	still	downloads/cm/cm_City_of_Taiz_Yemen_jpg.jpg
+8	164	164	n/a (graphic)	0	still	downloads/cm/cm_Bab_al_Mandab_Strait_jpg.jpg
+9	104	104	n/a (graphic)	0	still	downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg
+10	81	81	moving	26	inset	downloads/tg/tg_almasdaronline_32902.mp4
+11	126	126	n/a (graphic)	0	cover	graphics/cards/N_100.mp4
+12	134	134	n/a (graphic)	0	cover	graphics/cards/N_324.mp4
+13	87	87	moving	36	inset	downloads/tg/tg_almasdaronline_32902.mp4
+14	69	69	moving	44	inset	downloads/tg/tg_almasdaronline_32902.mp4
+15	119	119	n/a (graphic)	0	cover	graphics/cards/N_1122.mp4
+16	72	72	moving	33.9	cover	downloads/tg/tg_almasirahnews_50943.mp4
+17	151	151	n/a (graphic)	0	cover	maps/mapC_dhubab_mokha.mp4
+18	123	123	n/a (graphic)	0	card	graphics/cards/P_sources.png
+19	182	182	n/a (graphic)	0	card	graphics/cards/P_bukhaiti.png
+20	152	152	moving	10	inset	downloads/tg/tg_army21ye_3803.mp4
+21	98	98	moving	14	inset	downloads/tg/tg_AnsarAllahMC_333745.mp4
+22	96	96	moving	1.8	inset	downloads/tg/tg_AnsarAllahMC_333725.mp4
+23	123	123	moving	0	inset	downloads/tg/tg_almasdaronline_32902.mp4
+24	131	131	moving	24.2	cover	downloads/tg/tg_almasirahnews_50943.mp4
+25	163	163	n/a (graphic)	0	still	downloads/cm/cm_The_castle_above_Taiz_8683935588_jpg.jpg
+26	200	200	moving	0	inset	downloads/tg/tg_almasdaronline_32919.mp4
+27	141	141	n/a (graphic)	0	cover	maps/mapD_taiz.mp4
+28	230	230	n/a (graphic)	5.64	cover	maps/mapD_taiz.mp4
+29	144	144	n/a (graphic)	0	still	downloads/cm/cm_Taiz_city_from_AlQahirah_Castle_jpg.jpg
+30	173	173	n/a (graphic)	8.0	cover	maps/mapD_taiz.mp4
+31	125	125	moving	8	cover	downloads/tg/tg_almasdaronline_32918.mp4
+32	176	176	n/a (graphic)	0	card	graphics/cards/T_narratives.png
+33	317	317	n/a (graphic)	0	cover	maps/mapE_taiz_aden.mp4
+34	149	149	moving	74	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+35	106	106	moving	89	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+36	142	142	moving	10	inset	downloads/tg/tg_almasdaronline_32902.mp4
+37	119	119	n/a (graphic)	0	still	downloads/cm/cm_Flickr_Official_U_S_Navy_Imagery_USS_Enterprise_an.jpg
+38	197	197	n/a (graphic)	0	cover	maps/mapF_bab.mp4
+39	142	142	moving	5.6	inset	downloads/tg/tg_almasirahnews_50948.mp4
+40	86	86	moving	5	inset	downloads/tg/tg_almasirahnews_50905.mp4
+41	238	238	n/a (graphic)	0	cover	maps/mapG_regional.mp4
+42	153	153	moving	0	inset	downloads/tg/tg_AnsarAllahMC_333822.mp4
+43	124	124	moving	22	inset	downloads/tg/tg_AnsarAllahMC_333802.mp4
+44	166	166	n/a (graphic)	0	still	downloads/cm/cm_Bab_el_Mandeb_Seen_From_Midchannel_cropped_jpg.jpg
+45	178	178	moving	0	cover	downloads/tg/tg_almasdaronline_32886.mp4
+46	187	187	n/a (graphic)	0	card	graphics/cards/Q_episode.png
+47	264	264	n/a (graphic)	1.5	cover	maps/mapB_westcoast.mp4
+48	148	148	n/a (graphic)	0	card	graphics/cards/G_guest.png
+49	114	114	moving	44	cover	downloads/tg/tg_almasirahnews_50943.mp4
+50	143	143	moving	8	cover	downloads/tg/tg_almasdaronline_32886.mp4
+51	169	169	n/a (graphic)	14	cover	maps/mapR_taiz_sanaa.mp4
+52	139	139	n/a (graphic)	0	card	graphics/cards/Q1_early.png
+53	101	101	n/a (graphic)	1.0	cover	maps/mapD_taiz.mp4
+54	150	150	moving	20	inset	downloads/tg/tg_almasdaronline_32902.mp4
+55	384	384	n/a (graphic)	0	cover	maps/mapH_sept.mp4
+56	82	82	moving	0	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+57	228	228	n/a (graphic)	11.5	cover	maps/mapE_taiz_aden.mp4
+58	200	200	moving	104	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+59	155	155	moving	200	inset	downloads/tg/tg_AnsarAllahMC_333802.mp4
+60	105	105	moving	8	cover	downloads/tg/tg_almasdaronline_32922.mp4
+61	88	88	moving	48	inset	downloads/tg/tg_almasdaronline_32902.mp4
+62	167	167	n/a (graphic)	0	still	downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg
+63	513	513	n/a (graphic)	0	cover	maps/mapI_kahbub.mp4
+64	195	195	n/a (graphic)	20.5	cover	maps/mapI_kahbub.mp4
+65	94	94	moving	33.9	cover	downloads/tg/tg_almasirahnews_50943.mp4
+66	94	94	n/a (graphic)	32.2	cover	maps/mapI_kahbub.mp4
+67	143	143	n/a (graphic)	36.0	cover	maps/mapI_kahbub.mp4
+68	310	310	n/a (graphic)	0	cover	maps/mapJ_8km.mp4
+69	498	498	n/a (graphic)	0	cover	maps/mapK_dist.mp4
+70	140	140	moving	24.5	cover	downloads/tg/tg_almasirahnews_50943.mp4
+71	138	138	moving	14	cover	downloads/tg/tg_almasdaronline_32922.mp4
+72	225	225	n/a (graphic)	0	card	graphics/cards/T_dhubab.png
+73	158	158	n/a (graphic)	0	card	graphics/cards/Q2_service.png
+74	359	359	n/a (graphic)	0	cover	maps/mapL_pocket.mp4
+75	215	215	moving	119	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+76	303	303	n/a (graphic)	0	cover	maps/mapM_taiz_siege.mp4
+77	529	529	n/a (graphic)	5.0	cover	maps/mapN_axes.mp4
+78	333	333	n/a (graphic)	0	cover	maps/mapO_fronts.mp4
+79	240	240	n/a (graphic)	0	card	graphics/cards/Q3_realistic.png
+80	218	218	moving	14	cover	downloads/tg/tg_almasdaronline_32886.mp4
+81	152	152	moving	30	inset	downloads/tg/tg_almasdaronline_32902.mp4
+82	106	106	n/a (graphic)	0	still	downloads/cm/cm_641_2024_F_15SA_Eagle_Fairford_Saudi_Arabia_9809.jpg
+83	250	250	n/a (graphic)	0	card	graphics/cards/Q4_air.png
+84	297	297	n/a (graphic)	0	cover	maps/mapP_sanaa_hodeidah.mp4
+85	246	246	n/a (graphic)	0	still	downloads/cm/cm_Manakha_jpg.jpg
+86	176	176	moving	111	inset	downloads/tg/tg_AnsarAllahMC_333802.mp4
+87	281	281	n/a (graphic)	4.0	cover	maps/mapP_sanaa_hodeidah.mp4
+88	168	168	n/a (graphic)	0	card	graphics/cards/Q5_achieve.png
+89	153	153	moving	46	cover	downloads/tg/tg_almasirahnews_50943.mp4
+90	117	117	moving	20	cover	downloads/tg/tg_almasdaronline_32886.mp4
+91	200	200	n/a (graphic)	0	cover	maps/mapQ_tihama.mp4
+92	455	455	n/a (graphic)	0	cover	maps/mapR_taiz_sanaa.mp4
+93	188	188	moving	4	cover	downloads/tg/tg_almasdaronline_32886.mp4
+94	116	116	moving	2	inset	downloads/tg/tg_almasdaronline_32868.mp4
+95	186	186	n/a (graphic)	0	card	graphics/cards/Q6_intl.png
+96	162	162	n/a (graphic)	3.5	cover	maps/mapC_dhubab_mokha.mp4
+97	163	163	n/a (graphic)	11.0	cover	maps/mapH_sept.mp4
+98	291	291	n/a (graphic)	0	cover	maps/mapN_axes.mp4
+99	133	133	moving	4	inset	downloads/tg/tg_almasdaronline_32902.mp4
+100	266	266	n/a (graphic)	16.98	cover	maps/mapN_axes.mp4
+101	256	256	n/a (graphic)	4.0	cover	maps/mapM_taiz_siege.mp4
+102	165	165	moving	14	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+103	288	288	n/a (graphic)	1.5	cover	maps/mapL_pocket.mp4
+104	193	193	moving	59	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+105	287	287	n/a (graphic)	0	cover	maps/mapT_harad.mp4
+106	456	456	n/a (graphic)	0	cover	maps/mapU_habashi.mp4
+107	153	153	moving	15.5	cover	downloads/tg/tg_almasdaronline_32918.mp4
+108	243	243	n/a (graphic)	24.36	cover	maps/mapU_habashi.mp4
+109	354	354	n/a (graphic)	6.0	cover	maps/mapN_axes.mp4
+110	123	123	moving	22	inset	downloads/tg/tg_almasdaronline_32919.mp4
+111	175	175	n/a (graphic)	0	still	downloads/cm/cm_Boeing_F_15SA_Eagle_Royal_Saudi_Air_Force_5D4_2291_539.jpg
+112	254	254	n/a (graphic)	0	cover	graphics/cards/N_100_324.mp4
+113	166	166	moving	6	inset	downloads/tg/tg_almasdaronline_32902.mp4
+114	177	177	moving	9	cover	downloads/tg/tg_almasdaronline_32918.mp4
+115	154	154	moving	40	inset	downloads/tg/tg_army21ye_3796.mp4
+116	200	200	n/a (graphic)	0	card	graphics/cards/Q7_command.png
+117	86	86	moving	4	inset	downloads/tg/tg_AnsarAllahMC_333905.mp4
+118	173	173	n/a (graphic)	0	card	graphics/cards/Q8_shift.png
+119	105	105	moving	50	cover	downloads/tg/tg_almasirahnews_50943.mp4
+120	93	93	n/a (graphic)	0	card	graphics/cards/E_end.png
+
+TOTAL frames want=22105 got=22105 (audio 884.219 s x 25 = 22105)
