@@ -1,12 +1,13 @@
 # Mokha / «فجر اليمن» news video — project (5 Oct 2026)
 
-Final deliverable: `final/video_1080p_final.mp4` (14:44, 1080p25, H.264 + AAC, −15.1 LUFS / −2.8 dBTP).
-GitHub rejects files over 100 MB, so the MP4 is committed as parts:
+Final deliverable: `final/video_1080p_final.mp4` (14:44.20, 1920x1080, 25 fps, H.264 High + AAC-LC, 332,504,621 bytes,
+SHA256 `1ced21e113dced24a267b36f857cda229ba704f2efedb7a74d01eff30a15654b`) — stored with **Git LFS**, downloads as a normal MP4:
 
-```bash
-cat final/parts/video_1080p_final.mp4.part_* > final/video_1080p_final.mp4
-sha256sum -c final/parts/video_1080p_final.mp4.sha256
-```
+- 1080p master (direct download): https://media.githubusercontent.com/media/omaridabd/mycloud/claude/clever-turing-p1h7a3/proj/final/video_1080p_final.mp4
+- 720p preview, plays directly on GitHub (85.6 MB, regular file): `final/preview_720p.mp4`
+- `final/parts/` holds the same master split in 4 parts (backup only; `cat part_* >` reproduces the identical SHA256).
+
+When cloning, run `git lfs pull` to fetch the master (without git-lfs you get a small pointer file).
 
 Read `final/FINAL_REPORT.txt` for sources and accuracy notes, `final/EDL_shotlist_final.tsv` for the shot list.
 

@@ -3,12 +3,14 @@ FINAL REPORT — المخا / فجر اليمن · قراءة عسكرية مع 
 
 FILE
   name        : video_1080p_final.mp4
-  path        : proj/final/video_1080p_final.mp4  (also committed as split parts in proj/final/parts/, see README there)
+  path        : proj/final/video_1080p_final.mp4  (Git LFS; direct download URL in proj/README.md)
+  preview     : proj/final/preview_720p.mp4 (1280x720, 85.6 MB, regular git file)
+  sha256      : 1ced21e113dced24a267b36f857cda229ba704f2efedb7a74d01eff30a15654b (verified vs parts and vs GitHub LFS copy)
   duration    : 14:44.20 (884.200 s)  — audio master 884.219 s, video 22105 frames = round(884.219 x 25)
   video       : H.264 High, 1920x1080, 25 fps, yuv420p, CRF 17 (per shot), ~2.9 Mb/s average
   audio       : AAC-LC 256 kb/s, 48 kHz stereo (twoloop coder)
   loudness    : -15.1 LUFS integrated, true peak -2.8 dBTP (measured on the ENCODED file)
-  size        : ~328 MB
+  size        : 332,504,621 bytes (317.1 MiB)
   shots       : 120
 
 NARRATION
