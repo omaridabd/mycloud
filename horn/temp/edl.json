@@ -1,0 +1,857 @@
+[
+ {
+  "t0": 0.0,
+  "src": "downloads/gen/ai5_flashes.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ],
+   [
+    "hook",
+    "60 كم|توغّل إريتري داخل تيغراي · بحسب تقارير",
+    0.3,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 0,
+  "t1": 4.2
+ },
+ {
+  "t0": 4.2,
+  "src": "downloads/cm/cm_Eritrean_troops_leaving_a_city_in_the_Tigray_Region_web.webm",
+  "kind": "video",
+  "tin": 137,
+  "ov": [
+   [
+    "archive",
+    "مشاهد أرشيفية · قوات إريترية في تيغراي · 2023",
+    0.2,
+    null
+   ],
+   [
+    "credit",
+    "VOA (صوت أمريكا) · ملكية عامة · ويكيميديا",
+    0.3,
+    null
+   ]
+  ],
+  "i": 1,
+  "t1": 8.46
+ },
+ {
+  "t0": 8.46,
+  "src": "maps/mapA_horn.mp4",
+  "kind": "map",
+  "tin": 2.6,
+  "ov": [],
+  "fixed": true,
+  "i": 2,
+  "t1": 15.5
+ },
+ {
+  "t0": 15.5,
+  "src": "downloads/gen/ai6_storm.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ],
+   [
+    "cap",
+    "القرن الإفريقي على حافة حرب شاملة؟",
+    0.4,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 3,
+  "t1": 20.54
+ },
+ {
+  "t0": 20.54,
+  "src": "graphics/cards/intro.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 4,
+  "t1": 27.74
+ },
+ {
+  "t0": 27.74,
+  "src": "graphics/cards/reuters.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 5,
+  "t1": 34.5
+ },
+ {
+  "t0": 34.5,
+  "src": "maps/mapB_adigrat.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 6,
+  "t1": 46.24
+ },
+ {
+  "t0": 46.24,
+  "src": "downloads/cm/cm_Adigrat_Street_50217303593_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أديغرات · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 7,
+  "t1": 51.58
+ },
+ {
+  "t0": 51.58,
+  "src": "downloads/cm/cm_Adigrat_Ethiopia_49088955653_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أديغرات · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "z0": 1.08,
+  "z1": 1.0,
+  "i": 8,
+  "t1": 57.74
+ },
+ {
+  "t0": 57.74,
+  "src": "downloads/cm/cm_Tigray_Escarpment_Ethiopia_9798417064_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "إقليم تيغراي",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 9,
+  "t1": 61.02
+ },
+ {
+  "t0": 61.02,
+  "src": "maps/mapC_depth.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 10,
+  "t1": 69.86
+ },
+ {
+  "t0": 69.86,
+  "src": "downloads/gen/ai1_drone.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ],
+   [
+    "cap",
+    "ضربات بمسيّرات نُسبت للجيش الإثيوبي",
+    0.5,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 11,
+  "t1": 74.0
+ },
+ {
+  "t0": 74.0,
+  "src": "downloads/cm/cm_Tigray_Landscape_53009331742_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "إقليم تيغراي",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 12,
+  "t1": 76.76
+ },
+ {
+  "t0": 76.76,
+  "src": "maps/mapD_sequence.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 13,
+  "t1": 85.2
+ },
+ {
+  "t0": 85.2,
+  "src": "downloads/cm/cm_UN_Security_Council_2018_31078373778_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "loc",
+    "مجلس الأمن الدولي · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "U.S. Department of State from United Sta · Public domain · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 14,
+  "t1": 89.58
+ },
+ {
+  "t0": 89.58,
+  "src": "downloads/cm/cm_UN_Security_Council_Nov_16_2023_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "cap",
+    "إثيوبيا تحذّر مجلس الأمن من التوغّل الإريتري",
+    0.3,
+    5.6
+   ],
+   [
+    "cap",
+    "«حق الدفاع عن النفس»",
+    5.9,
+    null
+   ]
+  ],
+  "z0": 1.0,
+  "z1": 1.1,
+  "px": 0.4,
+  "i": 15,
+  "t1": 98.92
+ },
+ {
+  "t0": 98.92,
+  "src": "downloads/cm/cm_Assab_Eritrea_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عصب، إريتريا · صورة فضائية أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "cap",
+    "إريتريا تنفي الاتهامات",
+    0.4,
+    null
+   ],
+   [
+    "credit",
+    "Yonas Kidane · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 16,
+  "t1": 107.06
+ },
+ {
+  "t0": 107.06,
+  "src": "graphics/cards/positions.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 17,
+  "t1": 116.3
+ },
+ {
+  "t0": 116.3,
+  "src": "graphics/cards/sec1.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 18,
+  "t1": 119.74
+ },
+ {
+  "t0": 119.74,
+  "src": "graphics/cards/p1.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 19,
+  "t1": 125.26
+ },
+ {
+  "t0": 125.26,
+  "src": "downloads/cm/cm_Eritrean_troops_leaving_a_city_in_the_Tigray_Region_web.webm",
+  "kind": "video",
+  "tin": 52,
+  "ov": [
+   [
+    "archive",
+    "مشاهد أرشيفية · تيغراي · 2023",
+    0.2,
+    null
+   ],
+   [
+    "credit",
+    "VOA (صوت أمريكا) · ملكية عامة · ويكيميديا",
+    0.3,
+    null
+   ]
+  ],
+  "i": 20,
+  "t1": 131.36
+ },
+ {
+  "t0": 131.36,
+  "src": "graphics/cards/p2.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 21,
+  "t1": 136.0
+ },
+ {
+  "t0": 136.0,
+  "src": "downloads/gen/ai1_drone.mp4",
+  "kind": "video",
+  "tin": 0.2,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 22,
+  "t1": 140.74
+ },
+ {
+  "t0": 140.74,
+  "src": "downloads/cm/cm_Tigray_Landscape_53009331742_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "z0": 1.12,
+  "z1": 1.02,
+  "px": 0.3,
+  "i": 23,
+  "t1": 144.34
+ },
+ {
+  "t0": 144.34,
+  "src": "graphics/cards/p3.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 24,
+  "t1": 149.0
+ },
+ {
+  "t0": 149.0,
+  "src": "downloads/gen/ai2_convoy.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 25,
+  "t1": 154.04
+ },
+ {
+  "t0": 154.04,
+  "src": "downloads/cm/cm_Bus_to_Adigrat_Tigray_13622815094_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "الطريق إلى أديغرات · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 26,
+  "t1": 157.44
+ },
+ {
+  "t0": 157.44,
+  "src": "graphics/cards/p4.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 27,
+  "t1": 162.5
+ },
+ {
+  "t0": 162.5,
+  "src": "downloads/gen/ai4_ridge.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 28,
+  "t1": 167.5
+ },
+ {
+  "t0": 167.5,
+  "src": "downloads/cm/cm_Former_Tigray_fighters_have_started_returning_to_their.webm",
+  "kind": "video",
+  "tin": 84,
+  "ov": [
+   [
+    "archive",
+    "مشاهد أرشيفية · تيغراي · 2023",
+    0.2,
+    null
+   ],
+   [
+    "credit",
+    "VOA (صوت أمريكا) · ملكية عامة · ويكيميديا",
+    0.3,
+    null
+   ]
+  ],
+  "i": 29,
+  "t1": 171.64
+ },
+ {
+  "t0": 171.64,
+  "src": "graphics/cards/sec2.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 30,
+  "t1": 174.58
+ },
+ {
+  "t0": 174.58,
+  "src": "graphics/cards/notborder.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 31,
+  "t1": 183.4
+ },
+ {
+  "t0": 183.4,
+  "src": "maps/mapE_redsea.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 32,
+  "t1": 197.0
+ },
+ {
+  "t0": 197.0,
+  "src": "downloads/cm/cm_Bab_Al_Mandeb_Strait_between_Djibouti_and_Yemen_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "loc",
+    "مضيق باب المندب · البحر الأحمر",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "U.S. Department of Defense Current Photo · Public domain · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 33,
+  "t1": 203.258
+ },
+ {
+  "t0": 203.258,
+  "src": "downloads/gen/ai3_ship.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 34,
+  "t1": 208.258
+ },
+ {
+  "t0": 208.258,
+  "src": "downloads/cm/cm_Inside_the_UN_Security_Council_5881618621_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "credit",
+    "Matthew from London, United Kingdom · CC BY-SA 2.0 · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "z0": 1.1,
+  "z1": 1.0,
+  "i": 35,
+  "t1": 213.818
+ },
+ {
+  "t0": 213.818,
+  "src": "downloads/cm/cm_IDPs_in_Tigray_Region_hold_a_peaceful_demonstration_Ma.webm",
+  "kind": "video",
+  "tin": 282.5,
+  "ov": [
+   [
+    "archive",
+    "مشاهد أرشيفية · تيغراي · 2023",
+    0.2,
+    null
+   ],
+   [
+    "credit",
+    "VOA (صوت أمريكا) · ملكية عامة · ويكيميديا",
+    0.3,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 36,
+  "t1": 220.678
+ },
+ {
+  "t0": 220.678,
+  "src": "maps/mapF_regions.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 37,
+  "t1": 235.678
+ },
+ {
+  "t0": 235.678,
+  "src": "downloads/cm/cm_ET_Afar_asv2018_01_img46_Dallol_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "إقليم عفر · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "A.Savin · FAL · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 38,
+  "t1": 238.658
+ },
+ {
+  "t0": 238.658,
+  "src": "downloads/cm/cm_ET_Gondar_asv2018_02_img18_Fasil_Ghebbi_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "إقليم أمهرة · صورة أرشيفية",
+    0.3,
+    null
+   ],
+   [
+    "credit",
+    "A.Savin · FAL · ويكيميديا كومنز",
+    0.3,
+    null
+   ]
+  ],
+  "i": 39,
+  "t1": 242.038
+ },
+ {
+  "t0": 242.038,
+  "src": "graphics/cards/scen1.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 40,
+  "t1": 253.158
+ },
+ {
+  "t0": 253.158,
+  "src": "graphics/cards/scen2.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 41,
+  "t1": 258.198
+ },
+ {
+  "t0": 258.198,
+  "src": "downloads/gen/ai5_flashes.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 42,
+  "t1": 263.198
+ },
+ {
+  "t0": 263.198,
+  "src": "graphics/cards/scen3.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 43,
+  "t1": 269.598
+ },
+ {
+  "t0": 269.598,
+  "src": "maps/mapG_scenario.mp4",
+  "kind": "map",
+  "tin": 0,
+  "ov": [],
+  "fixed": true,
+  "i": 44,
+  "t1": 281.958
+ },
+ {
+  "t0": 281.958,
+  "src": "graphics/cards/summary.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "i": 45,
+  "t1": 291.758
+ },
+ {
+  "t0": 291.758,
+  "src": "downloads/gen/ai6_storm.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 46,
+  "t1": 296.758
+ },
+ {
+  "t0": 296.758,
+  "src": "downloads/gen/ai3_ship.mp4",
+  "kind": "video",
+  "tin": 0,
+  "ov": [
+   [
+    "ai",
+    "",
+    0,
+    null
+   ],
+   [
+    "cap",
+    "طموح البحر الأحمر",
+    1.6,
+    null
+   ]
+  ],
+  "fixed": true,
+  "i": 47,
+  "t1": 301.758
+ },
+ {
+  "t0": 301.758,
+  "src": "downloads/cm/cm_Tigray_remembers_urges_not_to_repeat_future_wars_webm.webm",
+  "kind": "video",
+  "tin": 66,
+  "ov": [
+   [
+    "archive",
+    "مشاهد أرشيفية · تيغراي · 2023",
+    0.2,
+    null
+   ],
+   [
+    "credit",
+    "VOA (صوت أمريكا) · ملكية عامة · ويكيميديا",
+    0.3,
+    null
+   ]
+  ],
+  "i": 48,
+  "t1": 308.398
+ },
+ {
+  "t0": 308.398,
+  "src": "graphics/cards/end.png",
+  "kind": "card",
+  "tin": 0,
+  "ov": [],
+  "z1": 1.02,
+  "i": 49,
+  "t1": 337.35
+ }
+]

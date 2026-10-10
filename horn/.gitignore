@@ -1,0 +1,9 @@
+temp/segs/
+temp/segs_bak/
+temp/qc/
+temp/video_only.mp4
+temp/*.jpg
+temp/*.wav
+downloads/cm/*.webm
+downloads/yt/
+__pycache__/

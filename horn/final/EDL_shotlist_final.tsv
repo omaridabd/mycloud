@@ -1,0 +1,51 @@
+i	t0	t1	dur	kind	src	tin	overlays
+0	0:00.00	0:04.20	4.20	video	downloads/gen/ai5_flashes.mp4	0	ai | 60 كم|توغّل إريتري داخل تيغراي · بحسب تقارير
+1	0:04.20	0:08.46	4.26	video	downloads/cm/cm_Eritrean_troops_leaving_a_city_in_the_Tigray_Region_web.webm	137	مشاهد أرشيفية · قوات إريترية في تيغراي · 2023 | VOA (صوت أمريكا) · ملكية عامة · ويكيميديا
+2	0:08.46	0:15.50	7.04	map	maps/mapA_horn.mp4	2.6	
+3	0:15.50	0:20.54	5.04	video	downloads/gen/ai6_storm.mp4	0	ai | القرن الإفريقي على حافة حرب شاملة؟
+4	0:20.54	0:27.74	7.20	card	graphics/cards/intro.png	0	
+5	0:27.74	0:34.50	6.76	card	graphics/cards/reuters.png	0	
+6	0:34.50	0:46.24	11.74	map	maps/mapB_adigrat.mp4	0	
+7	0:46.24	0:51.58	5.34	still	downloads/cm/cm_Adigrat_Street_50217303593_jpg.jpg	0	badge | أديغرات · صورة أرشيفية | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+8	0:51.58	0:57.74	6.16	still	downloads/cm/cm_Adigrat_Ethiopia_49088955653_jpg.jpg	0	badge | أديغرات · صورة أرشيفية | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+9	0:57.74	1:01.02	3.28	still	downloads/cm/cm_Tigray_Escarpment_Ethiopia_9798417064_jpg.jpg	0	badge | إقليم تيغراي | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+10	1:01.02	1:09.86	8.84	map	maps/mapC_depth.mp4	0	
+11	1:09.86	1:14.00	4.14	video	downloads/gen/ai1_drone.mp4	0	ai | ضربات بمسيّرات نُسبت للجيش الإثيوبي
+12	1:14.00	1:16.76	2.76	still	downloads/cm/cm_Tigray_Landscape_53009331742_jpg.jpg	0	badge | إقليم تيغراي | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+13	1:16.76	1:25.20	8.44	map	maps/mapD_sequence.mp4	0	
+14	1:25.20	1:29.58	4.38	still	downloads/cm/cm_UN_Security_Council_2018_31078373778_jpg.jpg	0	مجلس الأمن الدولي · صورة أرشيفية | U.S. Department of State from United Sta · Public domain · ويكيميديا كومنز
+15	1:29.58	1:38.92	9.34	still	downloads/cm/cm_UN_Security_Council_Nov_16_2023_jpg.jpg	0	إثيوبيا تحذّر مجلس الأمن من التوغّل الإريتري | «حق الدفاع عن النفس»
+16	1:38.92	1:47.06	8.14	still	downloads/cm/cm_Assab_Eritrea_jpg.jpg	0	badge | عصب، إريتريا · صورة فضائية أرشيفية | إريتريا تنفي الاتهامات | Yonas Kidane · CC BY-SA 2.0 · ويكيميديا كومنز
+17	1:47.06	1:56.30	9.24	card	graphics/cards/positions.png	0	
+18	1:56.30	1:59.74	3.44	card	graphics/cards/sec1.png	0	
+19	1:59.74	2:05.26	5.52	card	graphics/cards/p1.png	0	
+20	2:05.26	2:11.36	6.10	video	downloads/cm/cm_Eritrean_troops_leaving_a_city_in_the_Tigray_Region_web.webm	52	مشاهد أرشيفية · تيغراي · 2023 | VOA (صوت أمريكا) · ملكية عامة · ويكيميديا
+21	2:11.36	2:16.00	4.64	card	graphics/cards/p2.png	0	
+22	2:16.00	2:20.74	4.74	video	downloads/gen/ai1_drone.mp4	0.2	ai
+23	2:20.74	2:24.34	3.60	still	downloads/cm/cm_Tigray_Landscape_53009331742_jpg.jpg	0	badge | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+24	2:24.34	2:29.00	4.66	card	graphics/cards/p3.png	0	
+25	2:29.00	2:34.04	5.04	video	downloads/gen/ai2_convoy.mp4	0	ai
+26	2:34.04	2:37.44	3.40	still	downloads/cm/cm_Bus_to_Adigrat_Tigray_13622815094_jpg.jpg	0	badge | الطريق إلى أديغرات · صورة أرشيفية | Rod Waddington from Kergunyah, Australia · CC BY-SA 2.0 · ويكيميديا كومنز
+27	2:37.44	2:42.50	5.06	card	graphics/cards/p4.png	0	
+28	2:42.50	2:47.50	5.00	video	downloads/gen/ai4_ridge.mp4	0	ai
+29	2:47.50	2:51.64	4.14	video	downloads/cm/cm_Former_Tigray_fighters_have_started_returning_to_their.webm	84	مشاهد أرشيفية · تيغراي · 2023 | VOA (صوت أمريكا) · ملكية عامة · ويكيميديا
+30	2:51.64	2:54.58	2.94	card	graphics/cards/sec2.png	0	
+31	2:54.58	3:03.40	8.82	card	graphics/cards/notborder.png	0	
+32	3:03.40	3:17.00	13.60	map	maps/mapE_redsea.mp4	0	
+33	3:17.00	3:23.26	6.26	still	downloads/cm/cm_Bab_Al_Mandeb_Strait_between_Djibouti_and_Yemen_jpg.jpg	0	مضيق باب المندب · البحر الأحمر | U.S. Department of Defense Current Photo · Public domain · ويكيميديا كومنز
+34	3:23.26	3:28.26	5.00	video	downloads/gen/ai3_ship.mp4	0	ai
+35	3:28.26	3:33.82	5.56	still	downloads/cm/cm_Inside_the_UN_Security_Council_5881618621_jpg.jpg	0	Matthew from London, United Kingdom · CC BY-SA 2.0 · ويكيميديا كومنز
+36	3:33.82	3:40.68	6.86	video	downloads/cm/cm_IDPs_in_Tigray_Region_hold_a_peaceful_demonstration_Ma.webm	282.5	مشاهد أرشيفية · تيغراي · 2023 | VOA (صوت أمريكا) · ملكية عامة · ويكيميديا
+37	3:40.68	3:55.68	15.00	map	maps/mapF_regions.mp4	0	
+38	3:55.68	3:58.66	2.98	still	downloads/cm/cm_ET_Afar_asv2018_01_img46_Dallol_jpg.jpg	0	badge | إقليم عفر · صورة أرشيفية | A.Savin · FAL · ويكيميديا كومنز
+39	3:58.66	4:02.04	3.38	still	downloads/cm/cm_ET_Gondar_asv2018_02_img18_Fasil_Ghebbi_jpg.jpg	0	badge | إقليم أمهرة · صورة أرشيفية | A.Savin · FAL · ويكيميديا كومنز
+40	4:02.04	4:13.16	11.12	card	graphics/cards/scen1.png	0	
+41	4:13.16	4:18.20	5.04	card	graphics/cards/scen2.png	0	
+42	4:18.20	4:23.20	5.00	video	downloads/gen/ai5_flashes.mp4	0	ai
+43	4:23.20	4:29.60	6.40	card	graphics/cards/scen3.png	0	
+44	4:29.60	4:41.96	12.36	map	maps/mapG_scenario.mp4	0	
+45	4:41.96	4:51.76	9.80	card	graphics/cards/summary.png	0	
+46	4:51.76	4:56.76	5.00	video	downloads/gen/ai6_storm.mp4	0	ai
+47	4:56.76	5:01.76	5.00	video	downloads/gen/ai3_ship.mp4	0	ai | طموح البحر الأحمر
+48	5:01.76	5:08.40	6.64	video	downloads/cm/cm_Tigray_remembers_urges_not_to_repeat_future_wars_webm.webm	66	مشاهد أرشيفية · تيغراي · 2023 | VOA (صوت أمريكا) · ملكية عامة · ويكيميديا
+49	5:08.40	5:37.35	28.95	card	graphics/cards/end.png	0	
