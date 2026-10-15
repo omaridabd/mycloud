@@ -1,0 +1,57 @@
+43 190 190  tin=0 mode=card
+55 198 198  tin=0 mode=card
+56 121 121  tin=0 mode=card
+57 214 214  tin=0 mode=card
+58 167 167 moving tin=3 mode=cover
+59 164 164  tin=0 mode=card
+60 108 108  tin=0 mode=still
+61 150 150  tin=0 mode=still
+62 76 76  tin=0 mode=still-inset
+63 138 138  tin=9.0 mode=cover
+64 140 140  tin=0 mode=card
+65 176 176  tin=1.0 mode=cover
+66 174 174  tin=0 mode=card
+67 184 184 moving tin=0 mode=cover
+68 224 224  tin=0 mode=card
+69 190 190  tin=10.0 mode=cover
+70 140 140  tin=0 mode=still
+71 151 151  tin=0 mode=still
+72 187 187  tin=0 mode=still
+73 114 114  tin=0 mode=still
+74 192 192  tin=0 mode=still
+75 139 139  tin=0 mode=still
+76 219 219  tin=0 mode=card
+77 142 142 moving tin=36 mode=cover
+78 110 110  tin=0 mode=still
+79 224 224  tin=0 mode=card
+80 163 163 moving tin=26 mode=cover
+81 103 103  tin=0 mode=still
+82 228 228  tin=0 mode=card
+83 90 90  tin=0 mode=still
+84 70 70  tin=0 mode=still
+85 98 98  tin=0 mode=still
+86 204 204 moving tin=24 mode=cover
+87 98 98  tin=0 mode=still
+88 206 206  tin=0 mode=card
+89 202 202 moving tin=36 mode=cover
+90 190 190  tin=0 mode=still
+91 164 164  tin=0 mode=card
+92 206 206  tin=0 mode=still-inset
+93 220 220  tin=12.0 mode=cover
+94 174 174  tin=0 mode=still-inset
+95 144 144  tin=0 mode=still-inset
+96 146 146  tin=0 mode=still
+97 145 145  tin=0 mode=still-inset
+98 194 194  tin=16.0 mode=cover
+99 150 150  tin=0 mode=still
+100 212 212  tin=0 mode=card
+101 145 145 moving tin=6.8 mode=inset
+102 124 124  tin=0 mode=card
+103 158 158  tin=0 mode=card
+104 228 228  tin=9.0 mode=cover
+105 210 210  tin=0 mode=card
+106 117 117  tin=0 mode=still
+107 143 143  tin=0 mode=still
+108 118 118  tin=0 mode=still
+109 171 171  tin=0 mode=card
+110 118 118  tin=0 mode=card

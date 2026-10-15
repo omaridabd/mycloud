@@ -5,7 +5,7 @@
 - 720p preview (plays on GitHub): `final/preview_720p.mp4`
 - Reports: `final/FINAL_REPORT.txt`, `final/EDL_shotlist_final.tsv`, `final/QC_motion_report_final.txt`
 
-## Add the expert's name (part 2)
+## Change the expert's name (part 2) — currently «هشام معتضد»
 1. Edit `graphics/project_cfg.py` → `EXPERT_NAME`, `EXPERT_ROLE`
 2. `python3 graphics/cards_maroc.py`
 3. `python3 graphics/render.py $(python3 -c "import json;print(' '.join(str(e['i']) for e in json.load(open('temp/edl.json')) if e['t0']>=283))")`
