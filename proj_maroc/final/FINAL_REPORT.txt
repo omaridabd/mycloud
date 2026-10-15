@@ -1,0 +1,76 @@
+FINAL REPORT — المغرب يقلق مدريد: IRIFI وF-16 Block 72 ومعرض مراكش 2026 · قراءة عسكرية
+=========================================================================================
+
+FILE
+  name        : video_1080p_final.mp4  (proj_maroc/final/, stored with Git LFS)
+  duration    : 10:42.68 (642.680 s) — audio master 642.664 s; video 16067 frames = round(642.664 x 25)
+  video       : H.264 High, 1920x1080, 25 fps, yuv420p (CRF 17 per shot)
+  audio       : AAC-LC 256 kb/s, 48 kHz stereo
+  loudness    : -15.0 LUFS integrated, true peak -2.9 dBTP (measured on the encoded file)
+  size        : 227,499,547 bytes
+  sha256      : 42d8c0f6231f79e6c9e05155f0b19a1a797d6ad0b4eb3a8fa471ed628e487ceb
+  preview     : proj_maroc/final/preview_720p.mp4 (1280x720, regular git file, < 100 MB)
+  shots       : 110
+
+NARRATION
+  audio_maroc.mp3 is the master timeline: not cut, re-ordered, re-timed or regenerated.
+  Processing: +3.0 dB, 16 kHz low-pass, limiter -3.1 dBFS. Music: synthesized ambient drone (no licence needed),
+  side-chain ducked under the voice, faded out over the last 6.6 s.
+
+USER RULES FOR PART 2 (expert interview, 04:46–10:42)
+  - Only the expert's name is shown — NO channel/programme name anywhere in part 2.
+  - NO real footage from the interview (no studio / talking-head video). Part 2 is illustrated with maps, attributed
+    quote cards, capability footage and archive stills only.
+  - The expert's name is NOT spoken in the audio. Until the user supplies it, the placeholder «خبير عسكري» is used.
+    To insert the name: edit graphics/project_cfg.py (EXPERT_NAME / EXPERT_ROLE), then run
+      python3 graphics/cards_maroc.py && python3 graphics/render.py <ids of shots 55–110> && concat + mux (see README).
+
+STRUCTURE
+  00:00  Hook — Moroccan flag star drawn in the sky over Marrakech (DVIDS) + title «المغرب يقلق مدريد»
+  00:04  Map: Rabat–Madrid 764 km (El Español) → 2,000 km IRIFI ring from Marrakech (reaches all of Iberia; Paris ≈ 2,100 km)
+  00:30  Spanish headlines: El Español (8 Oct), Libertad Digital (9 Oct) · Marrakech show: Hespress photos, map, 200/27 counter
+  01:04  IRIFI: Harmattan AI stand at the show, manufacturer renders, specs card (GNSS-independent, optical terminal guidance)
+  02:00  F-16 Block 72: Lockheed Martin release (6 Oct) + official photo · 25 aircraft · The Objective headline (gap with Eurofighter)
+  02:38  EDGE (UAE) contract 9 Oct: DESERT STING 16 + THUNDER P-31 card
+  03:06  Moroccan defence industry map (Rabat R&D · Casablanca IRIFI plant · Berrechid WhAP) · Infodefensa: MMI turrets March 2027
+  03:28  Navy: frigate Mohammed VI · El País (via AFP) Ceuta incursions July–Aug 2026 · Ceuta map
+  03:51  Summary card, West-Med map (Spain: naval edge + NATO), rule card, Strait of Gibraltar from ISS, question card
+  04:43  Expert card → interview illustrated: 8 attributed quote cards, Spain/Morocco comparison, F-16 Block 72 card,
+         industry ladder (assembly → licence → technology transfer → independent development), maps, footage. End card.
+
+SOURCES — FOOTAGE / IMAGES
+  DVIDS (US DoD, public domain): video 1025700 «Marrakech Air Show 2026» (7 Oct, social reel, portrait) · images 10002858,
+     10002861, 10002865 (Moroccan aerobatic team, Marrakech Air Show 2026) · video 1006101 «African Lion 26 air battle management»
+     (labelled illustrative) · videos 1023753 & 964659 (US F-16s — labelled «مشاهد توضيحية · مقاتلات F-16 أمريكية»)
+  Lockheed Martin: official photo of Morocco's first F-16 Block 72 (news.lockheedmartin.com, 6 Oct 2026)
+  Harmattan AI: company photo, IRIFI renders (via DroneXL), product renders — labelled «تصوّر من الشركة المصنّعة» / «صورة توضيحية»
+  Hespress / Hespress English: 6 photos from the 2026 Marrakech Air Show (Loudiyi opening, UAE Knights, conference, Apache, China booth,
+     Harmattan AI stand) — small originals shown as insets, credited
+  Wikimedia Commons (archive, year on screen): Moroccan F-16s (2018, 2022, 2024, Marrakech 2016), Spanish Eurofighters (2017, 2019, 2025),
+     frigate Mohammed VI (Jul 2026), Tata WhAP 8x8 (India 2023), Bayraktar TB2, Royal Armed Forces 69th anniversary (2025),
+     Strait of Gibraltar from ISS (Mar 2026). Metadata: downloads/cm/meta.json, downloads/cm/search.json
+
+SOURCES — FACTS (verified with WebFetch)
+  El Español 8 Oct (IRIFI, 2,000 km, Rabat–Madrid 764 km) · Libertad Digital 9 Oct · Zona Militar 14 Oct (letter of intent 7 Oct)
+  Lockheed Martin release 6 Oct · The Objective 7 Oct (narrowing gap with Eurofighter)
+  Quwa / Hespress English / Morocco World News (EDGE contract 9 Oct; DS-16 23 kg ≤15 km; THUNDER P-31 10–20 km)
+  Infodefensa 12 Oct (MMI turrets from March 2027, statements to Reuters at the show)
+  El País via AFP/Unitel 12 Oct (frigate + patrol boats in Ceuta waters, near collision, July–early August)
+  Show figures: ~200 exhibitors, 27 countries, 7–10 Oct 2026 (Arab press / organisers)
+
+ACCURACY NOTES
+  1. Narration says «ثاندر ب1 و30»; the real munition is THUNDER P-31 — cards show the correct name.
+  2. «صحيفة آس الإسبانية» in the narration is a transcription/recording slip; the headline about narrowing the gap with the
+     Eurofighter is from The Objective (7 Oct) — the card shows The Objective.
+  3. «صحف مدريد … المغرب يستعرض عضلاته العسكرية»: no Spanish headline with that exact wording was found; the real headlines shown
+     are El Español and Libertad Digital.
+  4. IRIFI: a LETTER OF INTENT (not a contract); range and autonomy are manufacturer claims — chip «غير متحقق منها بشكل مستقل».
+     IRIFI images are renders, never presented as real footage.
+  5. El País original was not accessible; quoted via AFP. No official Moroccan response was found — stated on screen.
+  6. Western Sahara drawn with a dashed boundary and the same fill as Morocco (common news-map convention); not a political statement.
+  7. US F-16 footage and African Lion training footage are labelled illustrative; no interceptor/air-defence imagery used.
+  8. Envato: search works but there is no download/licensing tool in this session → no Envato assets used.
+
+QC
+  [x] every shot reviewed on mid-frame contact sheets (3 sheets, 110 shots); fixes: shots 25, 101 (in-points), all map shots (push-in)
+  [x] first 2 s of every footage shot moving (freezedetect) · whole file: 0 static holds ≥ 4 s · 0 decode errors · 16067/16067 frames

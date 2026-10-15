@@ -1,0 +1,2778 @@
+[
+ {
+  "i": 1,
+  "t0": 0.0,
+  "t1": 3.58,
+  "src": "downloads/dvids/dvids_img_10002858.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "hook: Moroccan star drawn over Marrakech",
+  "key": "star",
+  "z0": 1.0,
+  "z1": 1.12,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عرض جوي في معرض مراكش 2026",
+    0.3,
+    null
+   ],
+   [
+    "hook",
+    "المغرب يقلق مدريد|مسيّرة بمدى 2000 كم ومقاتلات F-16 جديدة",
+    0.0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 2,
+  "t0": 3.58,
+  "t1": 15.8,
+  "src": "maps/mA_hook.mp4",
+  "kind": "map",
+  "tin": 0.5,
+  "note": "764 km Rabat-Madrid; 2000 km red circle",
+  "key": "mA_hook",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 3,
+  "t0": 15.8,
+  "t1": 19.74,
+  "src": "downloads/web/irifi_formation.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "range 2000 km",
+  "key": "irifi_f",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 4,
+  "t0": 19.74,
+  "t1": 23.14,
+  "src": "downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "not ordinary aircraft",
+  "key": "reel",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران · 7 أكتوبر 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 5,
+  "t0": 23.14,
+  "t1": 30.0,
+  "src": "maps/mA_hook.mp4",
+  "kind": "map",
+  "tin": 19.0,
+  "note": "message reshuffled W-Med calculations",
+  "key": "mA_hook",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 6,
+  "t0": 30.0,
+  "t1": 33.66,
+  "src": "graphics/cards/H_elespanol.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Madrid papers headlines",
+  "key": "H_elespanol",
+  "ov": []
+ },
+ {
+  "i": 7,
+  "t0": 33.66,
+  "t1": 38.5,
+  "src": "graphics/cards/H_libertad.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Morocco flexes military muscle",
+  "key": "H_libertad",
+  "ov": []
+ },
+ {
+  "i": 8,
+  "t0": 38.5,
+  "t1": 41.84,
+  "src": "downloads/hes/hes_1819722.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "what did Spaniards see at Marrakech",
+  "key": "h_china",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أجنحة معرض مراكش 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 9,
+  "t0": 41.84,
+  "t1": 45.08,
+  "src": "downloads/hes/hes_1819201.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "from buyer to maker",
+  "key": "h_loud",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عبد اللطيف لوديي · افتتاح المعرض",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 10,
+  "t0": 45.08,
+  "t1": 50.02,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 2.0,
+  "note": "game-changing maker",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 11,
+  "t0": 50.02,
+  "t1": 55.34,
+  "src": "maps/mB_marrakech.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "10 October curtain fell on Marrakech show",
+  "key": "mB_marrakech",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 12,
+  "t0": 55.34,
+  "t1": 59.64,
+  "src": "graphics/cards/N_show.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "200 exhibitors, 27 countries",
+  "key": "N_show",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 13,
+  "t0": 59.64,
+  "t1": 64.12,
+  "src": "downloads/hes/hes_1819524.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "echo in Spanish newsrooms",
+  "key": "h_conf",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 14,
+  "t0": 64.12,
+  "t1": 69.18,
+  "src": "downloads/web/hespress_airshow.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "the surprise was not a traditional deal",
+  "key": "booth",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Hespress English",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "جناح Harmattan AI في معرض مراكش",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 15,
+  "t0": 69.18,
+  "t1": 75.2,
+  "src": "downloads/web/irifi_desert.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "IRIFI attack drone developed by Morocco",
+  "key": "irifi_d",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "IRIFI",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 16,
+  "t0": 75.2,
+  "t1": 79.02,
+  "src": "downloads/web/harmattan_company.png",
+  "kind": "still",
+  "tin": 0,
+  "note": "with French Harmattan AI",
+  "key": "hai_team",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "Harmattan AI · شركة فرنسية",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 17,
+  "t0": 79.02,
+  "t1": 82.0,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 4.5,
+  "note": "plans to manufacture locally",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 18,
+  "t0": 82.0,
+  "t1": 84.86,
+  "src": "downloads/web/irifi_formation.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "why the media alarm",
+  "key": "irifi_f",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.7,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 19,
+  "t0": 84.86,
+  "t1": 92.12,
+  "src": "maps/mA_hook.mp4",
+  "kind": "map",
+  "tin": 12.0,
+  "note": "2000 km puts whole Iberia under the microscope",
+  "key": "mA_hook",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 20,
+  "t0": 92.12,
+  "t1": 98.14,
+  "src": "graphics/cards/P_irifi.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "its brain: deep strikes, AI, optical guidance",
+  "key": "P_irifi",
+  "ov": []
+ },
+ {
+  "i": 21,
+  "t0": 98.14,
+  "t1": 102.52,
+  "src": "downloads/web/harmattan_precision_strike.png",
+  "kind": "still",
+  "tin": 0,
+  "note": "AI + precise optical guidance",
+  "key": "hai_strike",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة توضيحية من Harmattan AI · ليست IRIFI",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 22,
+  "t0": 102.52,
+  "t1": 109.86,
+  "src": "downloads/web/irifi_desert.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "flies & strikes independently of satellites",
+  "key": "irifi_d",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 23,
+  "t0": 109.86,
+  "t1": 114.84,
+  "src": "downloads/dvids/dvids_1006101.mp4",
+  "kind": "video",
+  "tin": 20,
+  "note": "jamming & EW systems",
+  "key": "al26",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · African Lion 26 · 2026",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 24,
+  "t0": 114.84,
+  "t1": 120.44,
+  "src": "downloads/web/harmattan_isr.png",
+  "kind": "still",
+  "tin": 0,
+  "note": "ghost that knows its way",
+  "key": "hai_isr",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة توضيحية من Harmattan AI",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 25,
+  "t0": 120.44,
+  "t1": 124.04,
+  "src": "downloads/dvids/dvids_1023753.mp4",
+  "kind": "video",
+  "tin": 35.4,
+  "note": "control is completed in the heights",
+  "key": "f16to",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · مقاتلات F-16 أمريكية",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 26,
+  "t0": 124.04,
+  "t1": 127.22,
+  "src": "downloads/cm/cm_Moroccan_air_force_F_16_flies_above_Morocco_during_Exer.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "parallel development from the US",
+  "key": "c_f16al",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2018",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 27,
+  "t0": 127.22,
+  "t1": 131.66,
+  "src": "graphics/cards/H_lm.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Lockheed Martin announces first flight",
+  "key": "H_lm",
+  "ov": []
+ },
+ {
+  "i": 28,
+  "t0": 131.66,
+  "t1": 137.0,
+  "src": "downloads/web/lm_f16_block72_first_flight.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "F-16 Block 72 for Morocco",
+  "key": "lm",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "لوكهيد مارتن",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أول F-16 Block 72 للمغرب · رحلة تجريبية · أكتوبر 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 29,
+  "t0": 137.0,
+  "t1": 142.24,
+  "src": "graphics/cards/N_25.mp4",
+  "kind": "map",
+  "tin": 0,
+  "note": "fleet of 25",
+  "key": "N_25",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 30,
+  "t0": 142.24,
+  "t1": 149.06,
+  "src": "graphics/cards/H_objective.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Spanish paper: narrowing the gap",
+  "key": "H_objective",
+  "ov": []
+ },
+ {
+  "i": 31,
+  "t0": 149.06,
+  "t1": 154.0,
+  "src": "downloads/cm/cm_Eurofighter_Typhoon_C_16_35_14_02_DACT_2017_3206452913.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "gap with Spain's crown jewel",
+  "key": "c_ef1",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر إسبانية · 2017",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 32,
+  "t0": 154.0,
+  "t1": 158.0,
+  "src": "downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Eurofighter",
+  "key": "c_ef3",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر تايفون · 2025",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 33,
+  "t0": 158.0,
+  "t1": 162.42,
+  "src": "downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4",
+  "kind": "video",
+  "tin": 8,
+  "note": "story did not end here",
+  "key": "reel",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران · 7 أكتوبر 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 34,
+  "t0": 162.42,
+  "t1": 166.98,
+  "src": "downloads/hes/hes_1819276.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "agreement with UAE EDGE",
+  "key": "h_uae",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "فريق «فرسان الإمارات» في سماء مراكش",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 35,
+  "t0": 166.98,
+  "t1": 171.4,
+  "src": "downloads/cm/cm_Bayraktar_TB2_Ground_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "arming Moroccan drones",
+  "key": "c_tb2",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية توضيحية · Bayraktar TB2 (من طرازات الأسطول المغربي)",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 36,
+  "t0": 171.4,
+  "t1": 180.24,
+  "src": "graphics/cards/P_edge.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Desert Sting 16 & Thunder P-31",
+  "key": "P_edge",
+  "ov": []
+ },
+ {
+  "i": 37,
+  "t0": 180.24,
+  "t1": 186.04,
+  "src": "downloads/cm/cm_Bayraktar_TB2_Ground_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "surgical, low cost",
+  "key": "c_tb2",
+  "z0": 1.18,
+  "z1": 1.05,
+  "px": 0.8,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية توضيحية · Bayraktar TB2",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 38,
+  "t0": 186.04,
+  "t1": 190.64,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 8.0,
+  "note": "weapon you make yourself",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 39,
+  "t0": 190.64,
+  "t1": 198.4,
+  "src": "graphics/cards/H_infodefensa.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Infodefensa follows MMI plans",
+  "key": "H_infodefensa",
+  "ov": []
+ },
+ {
+  "i": 40,
+  "t0": 198.4,
+  "t1": 204.4,
+  "src": "downloads/cm/cm_Tata_DRDO_whap_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "turrets for 8x8 by March 2027",
+  "key": "c_whap",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مدرعة WhAP 8x8 · الهند 2023",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 41,
+  "t0": 204.4,
+  "t1": 208.66,
+  "src": "downloads/cm/cm_US_Morocco_celebrate_Royal_Moroccan_Armed_Forces_69th.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "land & air rise",
+  "key": "c_far",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · القوات المسلحة الملكية · 2025",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 42,
+  "t0": 208.66,
+  "t1": 213.12,
+  "src": "downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "echo reached hot waters",
+  "key": "c_frig",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · الفرقاطة المغربية «محمد السادس» · يوليو 2026",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 43,
+  "t0": 213.12,
+  "t1": 220.74,
+  "src": "graphics/cards/H_elpais.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "El País: silent dangerous frictions near Ceuta",
+  "key": "H_elpais",
+  "ov": []
+ },
+ {
+  "i": 44,
+  "t0": 220.74,
+  "t1": 231.58,
+  "src": "maps/mD_ceuta.mp4",
+  "kind": "map",
+  "tin": 2.0,
+  "note": "near Ceuta last summer; each side tests the other",
+  "key": "mD_ceuta",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 45,
+  "t0": 231.58,
+  "t1": 234.24,
+  "src": "downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "F-16s in the sky",
+  "key": "c_f16pair",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2024",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 46,
+  "t0": 234.24,
+  "t1": 237.28,
+  "src": "downloads/web/irifi_formation.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "smart cross-border drones",
+  "key": "irifi_f",
+  "z0": 1.0,
+  "z1": 1.1,
+  "px": 0.2,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 47,
+  "t0": 237.28,
+  "t1": 242.6,
+  "src": "graphics/cards/P_cards4.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Emirati munitions, factories",
+  "key": "P_cards4",
+  "ov": []
+ },
+ {
+  "i": 48,
+  "t0": 242.6,
+  "t1": 251.3,
+  "src": "maps/mE_westmed.mp4",
+  "kind": "map",
+  "tin": 3.0,
+  "note": "Spain naval superiority + NATO",
+  "key": "mE_westmed",
+  "fixed": true,
+  "ov": []
+ },
+ {
+  "i": 49,
+  "t0": 251.3,
+  "t1": 255.86,
+  "src": "graphics/cards/T_rule.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "armies plan on capabilities",
+  "key": "T_rule",
+  "ov": []
+ },
+ {
+  "i": 50,
+  "t0": 255.86,
+  "t1": 260.5,
+  "src": "downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "symmetric deterrence",
+  "key": "c_f16pair",
+  "z0": 1.15,
+  "z1": 1.02,
+  "px": 0.2,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2024",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 51,
+  "t0": 260.5,
+  "t1": 266.88,
+  "src": "downloads/cm/cm_The_Strait_of_Gibraltar_separates_Europe_from_Africa_i.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "end of absolute superiority in Gibraltar",
+  "key": "c_strait",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "NASA · Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مضيق جبل طارق من محطة الفضاء الدولية · مارس 2026",
+    0,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 52,
+  "t0": 266.88,
+  "t1": 271.04,
+  "src": "downloads/dvids/dvids_img_10002865.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Rabat options widen",
+  "key": "aero4",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عرض جوي في معرض مراكش 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 53,
+  "t0": 271.04,
+  "t1": 278.0,
+  "src": "graphics/cards/Q_episode.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "arms race or pressure cards",
+  "key": "Q_episode",
+  "ov": []
+ },
+ {
+  "i": 54,
+  "t0": 278.0,
+  "t1": 283.46,
+  "src": "downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4",
+  "kind": "video",
+  "tin": 2,
+  "note": "unresolved sovereign files",
+  "key": "reel",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران · 7 أكتوبر 2026",
+    0.3,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 55,
+  "t0": 283.46,
+  "t1": 291.36,
+  "src": "graphics/cards/G_guest.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "expert card",
+  "key": "G_guest",
+  "ov": []
+ },
+ {
+  "i": 56,
+  "t0": 291.36,
+  "t1": 296.2,
+  "src": "graphics/cards/H_libertad.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Spanish media question deserves sober reading",
+  "key": "H_libertad",
+  "z0": 1.06,
+  "z1": 1.0,
+  "ov": []
+ },
+ {
+  "i": 57,
+  "t0": 296.2,
+  "t1": 304.78,
+  "src": "graphics/cards/Q1_balance.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "balance not measured by aircraft count",
+  "key": "Q1_balance",
+  "ov": []
+ },
+ {
+  "i": 58,
+  "t0": 304.78,
+  "t1": 311.42,
+  "src": "downloads/dvids/dvids_964659.mp4",
+  "kind": "video",
+  "tin": 3,
+  "note": "intel & logistics capabilities",
+  "key": "f16rf",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · تزوّد بالوقود جواً",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 59,
+  "t0": 311.42,
+  "t1": 318.0,
+  "src": "graphics/cards/T_compare.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Spain: capabilities, NATO",
+  "key": "T_compare",
+  "ov": []
+ },
+ {
+  "i": 60,
+  "t0": 318.0,
+  "t1": 322.32,
+  "src": "downloads/cm/cm_Spanish_Air_Force_Eurofighter_Volkel_NL_51099700.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "institutional NATO dimension",
+  "key": "c_ef2",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر إسبانية في تمرين للناتو · 2019",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 61,
+  "t0": 322.32,
+  "t1": 328.32,
+  "src": "downloads/web/lm_f16_block72_first_flight.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Morocco modernising",
+  "key": "lm",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "لوكهيد مارتن",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "F-16 Block 72 للمغرب",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 62,
+  "t0": 328.32,
+  "t1": 331.34,
+  "src": "downloads/web/hespress_airshow.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "expanding partnerships",
+  "key": "booth",
+  "z0": 1.12,
+  "z1": 1.0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Hespress English",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش 2026",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 63,
+  "t0": 331.34,
+  "t1": 336.9,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 9.0,
+  "note": "developing industrial base",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 64,
+  "t0": 336.9,
+  "t1": 342.5,
+  "src": "graphics/cards/H_objective.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Spanish press questions",
+  "key": "H_objective",
+  "z0": 1.06,
+  "z1": 1.0,
+  "ov": []
+ },
+ {
+  "i": 65,
+  "t0": 342.5,
+  "t1": 349.54,
+  "src": "maps/mA_hook.mp4",
+  "kind": "map",
+  "tin": 1.0,
+  "note": "gap between Rabat and Madrid",
+  "key": "mA_hook",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 66,
+  "t0": 349.54,
+  "t1": 356.48,
+  "src": "graphics/cards/Q2_announce.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "announcement vs real capability",
+  "key": "Q2_announce",
+  "ov": []
+ },
+ {
+  "i": 67,
+  "t0": 356.48,
+  "t1": 363.82,
+  "src": "downloads/dvids/dvids_1006101.mp4",
+  "kind": "video",
+  "tin": 0,
+  "note": "years of training & integration",
+  "key": "al26",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · تدريب مغربي-أمريكي · African Lion 26",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 68,
+  "t0": 363.82,
+  "t1": 372.82,
+  "src": "graphics/cards/Q3_gap.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "no need to outdo Spain everywhere",
+  "key": "Q3_gap",
+  "ov": []
+ },
+ {
+  "i": 69,
+  "t0": 372.82,
+  "t1": 380.4,
+  "src": "maps/mE_westmed.mp4",
+  "kind": "map",
+  "tin": 10.0,
+  "note": "deterrence calculations",
+  "key": "mE_westmed",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 70,
+  "t0": 380.4,
+  "t1": 386.0,
+  "src": "downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Q: closing gap with Eurofighter",
+  "key": "c_ef3",
+  "z0": 1.0,
+  "z1": 1.12,
+  "px": 0.7,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر إسبانية · 2025",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 71,
+  "t0": 386.0,
+  "t1": 392.04,
+  "src": "downloads/cm/cm_Moroccan_F_16C_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "what does it mean",
+  "key": "c_f16c",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2022",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 72,
+  "t0": 392.04,
+  "t1": 399.54,
+  "src": "downloads/cm/cm_Eurofighter_Typhoon_C_16_35_14_02_DACT_2017_3206452913.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Eurofighter vs RMAF modernisation",
+  "key": "c_ef1",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر إسبانية · 2017",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 73,
+  "t0": 399.54,
+  "t1": 404.08,
+  "src": "downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "RMAF modernisation",
+  "key": "c_f16pair",
+  "z0": 1.0,
+  "z1": 1.12,
+  "px": 0.8,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2024",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 74,
+  "t0": 404.08,
+  "t1": 411.74,
+  "src": "downloads/cm/cm_Royal_Moroccan_Air_Force_F_16_2016_Marrakech_Airshow.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "worries Spanish press",
+  "key": "c_f16mas",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية في معرض مراكش 2016",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 75,
+  "t0": 411.74,
+  "t1": 417.32,
+  "src": "downloads/web/lm_f16_block72_first_flight.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "first test flight",
+  "key": "lm",
+  "z0": 1.0,
+  "z1": 1.15,
+  "px": 0.2,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "لوكهيد مارتن",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أول رحلة تجريبية · F-16 Block 72",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 76,
+  "t0": 417.32,
+  "t1": 426.08,
+  "src": "graphics/cards/P_f16.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "radar, avionics, integrated systems",
+  "key": "P_f16",
+  "ov": []
+ },
+ {
+  "i": 77,
+  "t0": 426.08,
+  "t1": 431.74,
+  "src": "downloads/dvids/dvids_1023753.mp4",
+  "kind": "video",
+  "tin": 36,
+  "note": "bothers Spanish military thinking",
+  "key": "f16to",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · مقاتلات F-16 أمريكية",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 78,
+  "t0": 431.74,
+  "t1": 436.16,
+  "src": "downloads/cm/cm_Spanish_Air_Force_Eurofighter_Volkel_NL_51099700.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Spanish air & land ops",
+  "key": "c_ef2",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.7,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر إسبانية · 2019",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 79,
+  "t0": 436.16,
+  "t1": 445.12,
+  "src": "graphics/cards/Q4_airpower.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "air power = training, logistics",
+  "key": "Q4_airpower",
+  "ov": []
+ },
+ {
+  "i": 80,
+  "t0": 445.12,
+  "t1": 451.64,
+  "src": "downloads/dvids/dvids_964659.mp4",
+  "kind": "video",
+  "tin": 26,
+  "note": "logistic support",
+  "key": "f16rf",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · دعم لوجستي جوي",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 81,
+  "t0": 451.64,
+  "t1": 455.74,
+  "src": "downloads/cm/cm_US_Morocco_celebrate_Royal_Moroccan_Armed_Forces_69th.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Royal Armed Forces",
+  "key": "c_far",
+  "z0": 1.12,
+  "z1": 1.0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · القوات المسلحة الملكية · 2025",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 82,
+  "t0": 455.74,
+  "t1": 464.88,
+  "src": "graphics/cards/Q5_noflip.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "no total overturn",
+  "key": "Q5_noflip",
+  "ov": []
+ },
+ {
+  "i": 83,
+  "t0": 464.88,
+  "t1": 468.5,
+  "src": "downloads/cm/cm_Tata_DRDO_whap_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "land",
+  "key": "c_whap",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.6,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · مدرعة WhAP 8x8 · 2023",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 84,
+  "t0": 468.5,
+  "t1": 471.28,
+  "src": "downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "naval",
+  "key": "c_frig",
+  "z0": 1.0,
+  "z1": 1.12,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · الفرقاطة «محمد السادس» · 2026",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 85,
+  "t0": 471.28,
+  "t1": 475.2,
+  "src": "downloads/web/irifi_desert.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "technology",
+  "key": "irifi_d",
+  "z0": 1.0,
+  "z1": 1.1,
+  "px": 0.7,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 86,
+  "t0": 475.2,
+  "t1": 483.36,
+  "src": "downloads/dvids/dvids_1006101.mp4",
+  "kind": "video",
+  "tin": 24,
+  "note": "Q: EW readiness & AI",
+  "key": "al26",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · African Lion 26",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 87,
+  "t0": 483.36,
+  "t1": 487.26,
+  "src": "downloads/web/harmattan_precision_strike.png",
+  "kind": "still",
+  "tin": 0,
+  "note": "AI systems",
+  "key": "hai_strike",
+  "z0": 1.15,
+  "z1": 1.0,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة توضيحية من Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 88,
+  "t0": 487.26,
+  "t1": 495.52,
+  "src": "graphics/cards/Q6_ai.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "technical integration taken seriously",
+  "key": "Q6_ai",
+  "ov": []
+ },
+ {
+  "i": 89,
+  "t0": 495.52,
+  "t1": 503.6,
+  "src": "downloads/dvids/dvids_1006101.mp4",
+  "kind": "video",
+  "tin": 36,
+  "note": "armies in Africa, Europe, America, Asia",
+  "key": "al26",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "مشاهد توضيحية · African Lion 26",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 90,
+  "t0": 503.6,
+  "t1": 511.2,
+  "src": "downloads/web/irifi_formation.webp",
+  "kind": "still",
+  "tin": 0,
+  "note": "can make the difference quickly",
+  "key": "irifi_f",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.5,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "تصوّر من الشركة المصنّعة",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 91,
+  "t0": 511.2,
+  "t1": 517.78,
+  "src": "graphics/cards/H_elespanol.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "Spanish press fears",
+  "key": "H_elespanol",
+  "z0": 1.06,
+  "z1": 1.0,
+  "ov": []
+ },
+ {
+  "i": 92,
+  "t0": 517.78,
+  "t1": 526.02,
+  "src": "downloads/web/hespress_airshow.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "big space in industrial strategy",
+  "key": "booth",
+  "z0": 1.0,
+  "z1": 1.15,
+  "px": 0.6,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Hespress English",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "جناح Harmattan AI",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 93,
+  "t0": 526.02,
+  "t1": 534.78,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 12.0,
+  "note": "industrial strategy",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 94,
+  "t0": 534.78,
+  "t1": 541.76,
+  "src": "downloads/hes/hes_1819524.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "regional & continental level",
+  "key": "h_conf",
+  "z0": 1.12,
+  "z1": 1.0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران 2026",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 95,
+  "t0": 541.76,
+  "t1": 547.5,
+  "src": "downloads/hes/hes_1819722.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "integrating technologies",
+  "key": "h_china",
+  "z0": 1.0,
+  "z1": 1.12,
+  "px": 0.3,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "أجنحة معرض مراكش 2026",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 96,
+  "t0": 547.5,
+  "t1": 553.34,
+  "src": "downloads/web/harmattan_company.png",
+  "kind": "still",
+  "tin": 0,
+  "note": "into military industry",
+  "key": "hai_team",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.6,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Harmattan AI",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 97,
+  "t0": 553.34,
+  "t1": 559.16,
+  "src": "downloads/hes/hes_1819201.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Q: manufacturing",
+  "key": "h_loud",
+  "z0": 1.1,
+  "z1": 1.0,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "هسبريس",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عبد اللطيف لوديي",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 98,
+  "t0": 559.16,
+  "t1": 566.92,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 16.0,
+  "note": "Moroccan manufacturing direction",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 99,
+  "t0": 566.92,
+  "t1": 572.92,
+  "src": "downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "Spanish direction at same level?",
+  "key": "c_ef3",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.4,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · يوروفايتر · 2025",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 100,
+  "t0": 572.92,
+  "t1": 581.4,
+  "src": "graphics/cards/Q7_industry.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "from import to production",
+  "key": "Q7_industry",
+  "ov": []
+ },
+ {
+  "i": 101,
+  "t0": 581.4,
+  "t1": 587.22,
+  "src": "downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4",
+  "kind": "video",
+  "tin": 6.8,
+  "note": "long-term decision independence",
+  "key": "reel",
+  "fixed": true,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "معرض مراكش للطيران · 7 أكتوبر 2026",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 102,
+  "t0": 587.22,
+  "t1": 592.18,
+  "src": "graphics/cards/P_cards4.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "drones, munitions, components",
+  "key": "P_cards4",
+  "z0": 1.05,
+  "z1": 1.0,
+  "ov": []
+ },
+ {
+  "i": 103,
+  "t0": 592.18,
+  "t1": 598.5,
+  "src": "graphics/cards/H_infodefensa.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "localising production stages",
+  "key": "H_infodefensa",
+  "z0": 1.06,
+  "z1": 1.0,
+  "ov": []
+ },
+ {
+  "i": 104,
+  "t0": 598.5,
+  "t1": 607.6,
+  "src": "maps/mC_industry.mp4",
+  "kind": "map",
+  "tin": 9.0,
+  "note": "real military industry",
+  "key": "mC_industry",
+  "fixed": true,
+  "ov": [
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 105,
+  "t0": 607.6,
+  "t1": 616.0,
+  "src": "graphics/cards/L_ladder.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "assembly vs licence vs transfer vs independent",
+  "key": "L_ladder",
+  "ov": []
+ },
+ {
+  "i": 106,
+  "t0": 616.0,
+  "t1": 620.68,
+  "src": "downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "navy",
+  "key": "c_frig",
+  "z0": 1.12,
+  "z1": 1.0,
+  "px": 0.6,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · الفرقاطة «محمد السادس» · 2026",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 107,
+  "t0": 620.68,
+  "t1": 626.38,
+  "src": "downloads/cm/cm_Moroccan_F_16C_jpg.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "air force",
+  "key": "c_f16c",
+  "z0": 1.0,
+  "z1": 1.12,
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "Wikimedia Commons",
+    0,
+    null
+   ],
+   [
+    "archive",
+    "صورة أرشيفية · F-16 مغربية · 2022",
+    0,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 108,
+  "t0": 626.38,
+  "t1": 631.1,
+  "src": "downloads/dvids/dvids_img_10002861.jpg",
+  "kind": "still",
+  "tin": 0,
+  "note": "strategic autonomy",
+  "key": "aero1",
+  "ov": [
+   [
+    "badge",
+    "",
+    0,
+    null
+   ],
+   [
+    "credit",
+    "DVIDS · وزارة الدفاع الأمريكية (ملكية عامة)",
+    0,
+    null
+   ],
+   [
+    "loc",
+    "عرض جوي في معرض مراكش 2026",
+    0.3,
+    null
+   ],
+   [
+    "guest",
+    "",
+    0.2,
+    null
+   ]
+  ]
+ },
+ {
+  "i": 109,
+  "t0": 631.1,
+  "t1": 637.95,
+  "src": "graphics/cards/Q8_ecosystem.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "engineers, R&D",
+  "key": "Q8_ecosystem",
+  "ov": []
+ },
+ {
+  "i": 110,
+  "t0": 637.95,
+  "t1": 642.66449,
+  "src": "graphics/cards/E_end.png",
+  "kind": "card",
+  "tin": 0,
+  "note": "end card",
+  "key": "E_end",
+  "ov": []
+ }
+]

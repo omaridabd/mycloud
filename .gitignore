@@ -7,3 +7,13 @@ proj/renders/
 proj/sources/music/*.wav
 proj/downloads/yt/
 __pycache__/
+proj_maroc/temp/segs/
+proj_maroc/temp/video_only.mp4
+proj_maroc/temp/qc/
+proj_maroc/temp/*.jpg
+proj_maroc/renders/
+proj_maroc/sources/music/*.wav
+proj_maroc/downloads/web/*.html
+proj_maroc/downloads/dvids/*.html
+proj_maroc/downloads/hes/*.html
+proj_maroc/downloads/web/harmattan_hero.mp4

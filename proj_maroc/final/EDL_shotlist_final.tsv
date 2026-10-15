@@ -1,0 +1,111 @@
+shot	start	end	dur_s	type	source	in_point_s	labels_overlays	narration_beat
+1	00:00.00	00:03.58	3.58	still	downloads/dvids/dvids_img_10002858.jpg	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:عرض جوي في معرض مراكش 2026 | hook:المغرب يقلق مدريد|مسيّرة بمدى 2000 كم ومقاتلات F-16 جديدة	hook: Moroccan star drawn over Marrakech
+2	00:03.58	00:15.80	12.22	map	maps/mA_hook.mp4	0.5		764 km Rabat-Madrid; 2000 km red circle
+3	00:15.80	00:19.74	3.94	still	downloads/web/irifi_formation.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	range 2000 km
+4	00:19.74	00:23.14	3.40	video	downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:معرض مراكش للطيران · 7 أكتوبر 2026	not ordinary aircraft
+5	00:23.14	00:30.00	6.86	map	maps/mA_hook.mp4	19.0		message reshuffled W-Med calculations
+6	00:30.00	00:33.66	3.66	card	graphics/cards/H_elespanol.png	0		Madrid papers headlines
+7	00:33.66	00:38.50	4.84	card	graphics/cards/H_libertad.png	0		Morocco flexes military muscle
+8	00:38.50	00:41.84	3.34	still	downloads/hes/hes_1819722.jpg	0	credit:هسبريس | loc:أجنحة معرض مراكش 2026	what did Spaniards see at Marrakech
+9	00:41.84	00:45.08	3.24	still	downloads/hes/hes_1819201.jpg	0	credit:هسبريس | loc:عبد اللطيف لوديي · افتتاح المعرض	from buyer to maker
+10	00:45.08	00:50.02	4.94	map	maps/mC_industry.mp4	2.0		game-changing maker
+11	00:50.02	00:55.34	5.32	map	maps/mB_marrakech.mp4	0		10 October curtain fell on Marrakech show
+12	00:55.34	00:59.64	4.30	map	graphics/cards/N_show.mp4	0		200 exhibitors, 27 countries
+13	00:59.64	01:04.12	4.48	still	downloads/hes/hes_1819524.jpg	0	credit:هسبريس | loc:معرض مراكش للطيران 2026	echo in Spanish newsrooms
+14	01:04.12	01:09.18	5.06	still	downloads/web/hespress_airshow.jpg	0	credit:Hespress English | loc:جناح Harmattan AI في معرض مراكش	the surprise was not a traditional deal
+15	01:09.18	01:15.20	6.02	still	downloads/web/irifi_desert.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة | loc:IRIFI	IRIFI attack drone developed by Morocco
+16	01:15.20	01:19.02	3.82	still	downloads/web/harmattan_company.png	0	credit:Harmattan AI | loc:Harmattan AI · شركة فرنسية	with French Harmattan AI
+17	01:19.02	01:22.00	2.98	map	maps/mC_industry.mp4	4.5		plans to manufacture locally
+18	01:22.00	01:24.86	2.86	still	downloads/web/irifi_formation.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	why the media alarm
+19	01:24.86	01:32.12	7.26	map	maps/mA_hook.mp4	12.0		2000 km puts whole Iberia under the microscope
+20	01:32.12	01:38.14	6.02	card	graphics/cards/P_irifi.png	0		its brain: deep strikes, AI, optical guidance
+21	01:38.14	01:42.52	4.38	still	downloads/web/harmattan_precision_strike.png	0	credit:Harmattan AI | archive:صورة توضيحية من Harmattan AI · ليست IRIFI	AI + precise optical guidance
+22	01:42.52	01:49.86	7.34	still	downloads/web/irifi_desert.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	flies & strikes independently of satellites
+23	01:49.86	01:54.84	4.98	video	downloads/dvids/dvids_1006101.mp4	20	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · African Lion 26 · 2026	jamming & EW systems
+24	01:54.84	02:00.44	5.60	still	downloads/web/harmattan_isr.png	0	credit:Harmattan AI | archive:صورة توضيحية من Harmattan AI	ghost that knows its way
+25	02:00.44	02:04.04	3.60	video	downloads/dvids/dvids_1023753.mp4	35.4	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · مقاتلات F-16 أمريكية	control is completed in the heights
+26	02:04.04	02:07.22	3.18	still	downloads/cm/cm_Moroccan_air_force_F_16_flies_above_Morocco_during_Exer.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2018	parallel development from the US
+27	02:07.22	02:11.66	4.44	card	graphics/cards/H_lm.png	0		Lockheed Martin announces first flight
+28	02:11.66	02:17.00	5.34	still	downloads/web/lm_f16_block72_first_flight.jpg	0	credit:لوكهيد مارتن | loc:أول F-16 Block 72 للمغرب · رحلة تجريبية · أكتوبر 2026	F-16 Block 72 for Morocco
+29	02:17.00	02:22.24	5.24	map	graphics/cards/N_25.mp4	0		fleet of 25
+30	02:22.24	02:29.06	6.82	card	graphics/cards/H_objective.png	0		Spanish paper: narrowing the gap
+31	02:29.06	02:34.00	4.94	still	downloads/cm/cm_Eurofighter_Typhoon_C_16_35_14_02_DACT_2017_3206452913.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر إسبانية · 2017	gap with Spain's crown jewel
+32	02:34.00	02:38.00	4.00	still	downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر تايفون · 2025	Eurofighter
+33	02:38.00	02:42.42	4.42	video	downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4	8	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:معرض مراكش للطيران · 7 أكتوبر 2026	story did not end here
+34	02:42.42	02:46.98	4.56	still	downloads/hes/hes_1819276.jpg	0	credit:هسبريس | loc:فريق «فرسان الإمارات» في سماء مراكش	agreement with UAE EDGE
+35	02:46.98	02:51.40	4.42	still	downloads/cm/cm_Bayraktar_TB2_Ground_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية توضيحية · Bayraktar TB2 (من طرازات الأسطول المغربي)	arming Moroccan drones
+36	02:51.40	03:00.24	8.84	card	graphics/cards/P_edge.png	0		Desert Sting 16 & Thunder P-31
+37	03:00.24	03:06.04	5.80	still	downloads/cm/cm_Bayraktar_TB2_Ground_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية توضيحية · Bayraktar TB2	surgical, low cost
+38	03:06.04	03:10.64	4.60	map	maps/mC_industry.mp4	8.0		weapon you make yourself
+39	03:10.64	03:18.40	7.76	card	graphics/cards/H_infodefensa.png	0		Infodefensa follows MMI plans
+40	03:18.40	03:24.40	6.00	still	downloads/cm/cm_Tata_DRDO_whap_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مدرعة WhAP 8x8 · الهند 2023	turrets for 8x8 by March 2027
+41	03:24.40	03:28.66	4.26	still	downloads/cm/cm_US_Morocco_celebrate_Royal_Moroccan_Armed_Forces_69th.jpg	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:صورة أرشيفية · القوات المسلحة الملكية · 2025	land & air rise
+42	03:28.66	03:33.12	4.46	still	downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · الفرقاطة المغربية «محمد السادس» · يوليو 2026	echo reached hot waters
+43	03:33.12	03:40.74	7.62	card	graphics/cards/H_elpais.png	0		El País: silent dangerous frictions near Ceuta
+44	03:40.74	03:51.58	10.84	map	maps/mD_ceuta.mp4	2.0		near Ceuta last summer; each side tests the other
+45	03:51.58	03:54.24	2.66	still	downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2024	F-16s in the sky
+46	03:54.24	03:57.28	3.04	still	downloads/web/irifi_formation.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	smart cross-border drones
+47	03:57.28	04:02.60	5.32	card	graphics/cards/P_cards4.png	0		Emirati munitions, factories
+48	04:02.60	04:11.30	8.70	map	maps/mE_westmed.mp4	3.0		Spain naval superiority + NATO
+49	04:11.30	04:15.86	4.56	card	graphics/cards/T_rule.png	0		armies plan on capabilities
+50	04:15.86	04:20.50	4.64	still	downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2024	symmetric deterrence
+51	04:20.50	04:26.88	6.38	still	downloads/cm/cm_The_Strait_of_Gibraltar_separates_Europe_from_Africa_i.jpg	0	credit:NASA · Wikimedia Commons | archive:مضيق جبل طارق من محطة الفضاء الدولية · مارس 2026	end of absolute superiority in Gibraltar
+52	04:26.88	04:31.04	4.16	still	downloads/dvids/dvids_img_10002865.jpg	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:عرض جوي في معرض مراكش 2026	Rabat options widen
+53	04:31.04	04:38.00	6.96	card	graphics/cards/Q_episode.png	0		arms race or pressure cards
+54	04:38.00	04:43.46	5.46	video	downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4	2	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:معرض مراكش للطيران · 7 أكتوبر 2026	unresolved sovereign files
+55	04:43.46	04:51.36	7.90	card	graphics/cards/G_guest.png	0		expert card
+56	04:51.36	04:56.20	4.84	card	graphics/cards/H_libertad.png	0		Spanish media question deserves sober reading
+57	04:56.20	05:04.78	8.58	card	graphics/cards/Q1_balance.png	0		balance not measured by aircraft count
+58	05:04.78	05:11.42	6.64	video	downloads/dvids/dvids_964659.mp4	3	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · تزوّد بالوقود جواً	intel & logistics capabilities
+59	05:11.42	05:18.00	6.58	card	graphics/cards/T_compare.png	0		Spain: capabilities, NATO
+60	05:18.00	05:22.32	4.32	still	downloads/cm/cm_Spanish_Air_Force_Eurofighter_Volkel_NL_51099700.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر إسبانية في تمرين للناتو · 2019	institutional NATO dimension
+61	05:22.32	05:28.32	6.00	still	downloads/web/lm_f16_block72_first_flight.jpg	0	credit:لوكهيد مارتن | loc:F-16 Block 72 للمغرب	Morocco modernising
+62	05:28.32	05:31.34	3.02	still	downloads/web/hespress_airshow.jpg	0	credit:Hespress English | loc:معرض مراكش 2026	expanding partnerships
+63	05:31.34	05:36.90	5.56	map	maps/mC_industry.mp4	9.0		developing industrial base
+64	05:36.90	05:42.50	5.60	card	graphics/cards/H_objective.png	0		Spanish press questions
+65	05:42.50	05:49.54	7.04	map	maps/mA_hook.mp4	1.0		gap between Rabat and Madrid
+66	05:49.54	05:56.48	6.94	card	graphics/cards/Q2_announce.png	0		announcement vs real capability
+67	05:56.48	06:03.82	7.34	video	downloads/dvids/dvids_1006101.mp4	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · تدريب مغربي-أمريكي · African Lion 26	years of training & integration
+68	06:03.82	06:12.82	9.00	card	graphics/cards/Q3_gap.png	0		no need to outdo Spain everywhere
+69	06:12.82	06:20.40	7.58	map	maps/mE_westmed.mp4	10.0		deterrence calculations
+70	06:20.40	06:26.00	5.60	still	downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر إسبانية · 2025	Q: closing gap with Eurofighter
+71	06:26.00	06:32.04	6.04	still	downloads/cm/cm_Moroccan_F_16C_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2022	what does it mean
+72	06:32.04	06:39.54	7.50	still	downloads/cm/cm_Eurofighter_Typhoon_C_16_35_14_02_DACT_2017_3206452913.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر إسبانية · 2017	Eurofighter vs RMAF modernisation
+73	06:39.54	06:44.08	4.54	still	downloads/cm/cm_F_16s_Royal_Moroccan_Air_Force_2024_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2024	RMAF modernisation
+74	06:44.08	06:51.74	7.66	still	downloads/cm/cm_Royal_Moroccan_Air_Force_F_16_2016_Marrakech_Airshow.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية في معرض مراكش 2016	worries Spanish press
+75	06:51.74	06:57.32	5.58	still	downloads/web/lm_f16_block72_first_flight.jpg	0	credit:لوكهيد مارتن | loc:أول رحلة تجريبية · F-16 Block 72	first test flight
+76	06:57.32	07:06.08	8.76	card	graphics/cards/P_f16.png	0		radar, avionics, integrated systems
+77	07:06.08	07:11.74	5.66	video	downloads/dvids/dvids_1023753.mp4	36	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · مقاتلات F-16 أمريكية	bothers Spanish military thinking
+78	07:11.74	07:16.16	4.42	still	downloads/cm/cm_Spanish_Air_Force_Eurofighter_Volkel_NL_51099700.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر إسبانية · 2019	Spanish air & land ops
+79	07:16.16	07:25.12	8.96	card	graphics/cards/Q4_airpower.png	0		air power = training, logistics
+80	07:25.12	07:31.64	6.52	video	downloads/dvids/dvids_964659.mp4	26	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · دعم لوجستي جوي	logistic support
+81	07:31.64	07:35.74	4.10	still	downloads/cm/cm_US_Morocco_celebrate_Royal_Moroccan_Armed_Forces_69th.jpg	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:صورة أرشيفية · القوات المسلحة الملكية · 2025	Royal Armed Forces
+82	07:35.74	07:44.88	9.14	card	graphics/cards/Q5_noflip.png	0		no total overturn
+83	07:44.88	07:48.50	3.62	still	downloads/cm/cm_Tata_DRDO_whap_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · مدرعة WhAP 8x8 · 2023	land
+84	07:48.50	07:51.28	2.78	still	downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · الفرقاطة «محمد السادس» · 2026	naval
+85	07:51.28	07:55.20	3.92	still	downloads/web/irifi_desert.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	technology
+86	07:55.20	08:03.36	8.16	video	downloads/dvids/dvids_1006101.mp4	24	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · African Lion 26	Q: EW readiness & AI
+87	08:03.36	08:07.26	3.90	still	downloads/web/harmattan_precision_strike.png	0	credit:Harmattan AI | archive:صورة توضيحية من Harmattan AI	AI systems
+88	08:07.26	08:15.52	8.26	card	graphics/cards/Q6_ai.png	0		technical integration taken seriously
+89	08:15.52	08:23.60	8.08	video	downloads/dvids/dvids_1006101.mp4	36	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | archive:مشاهد توضيحية · African Lion 26	armies in Africa, Europe, America, Asia
+90	08:23.60	08:31.20	7.60	still	downloads/web/irifi_formation.webp	0	credit:Harmattan AI | archive:تصوّر من الشركة المصنّعة	can make the difference quickly
+91	08:31.20	08:37.78	6.58	card	graphics/cards/H_elespanol.png	0		Spanish press fears
+92	08:37.78	08:46.02	8.24	still	downloads/web/hespress_airshow.jpg	0	credit:Hespress English | loc:جناح Harmattan AI	big space in industrial strategy
+93	08:46.02	08:54.78	8.76	map	maps/mC_industry.mp4	12.0		industrial strategy
+94	08:54.78	09:01.76	6.98	still	downloads/hes/hes_1819524.jpg	0	credit:هسبريس | loc:معرض مراكش للطيران 2026	regional & continental level
+95	09:01.76	09:07.50	5.74	still	downloads/hes/hes_1819722.jpg	0	credit:هسبريس | loc:أجنحة معرض مراكش 2026	integrating technologies
+96	09:07.50	09:13.34	5.84	still	downloads/web/harmattan_company.png	0	credit:Harmattan AI	into military industry
+97	09:13.34	09:19.16	5.82	still	downloads/hes/hes_1819201.jpg	0	credit:هسبريس | loc:عبد اللطيف لوديي	Q: manufacturing
+98	09:19.16	09:26.92	7.76	map	maps/mC_industry.mp4	16.0		Moroccan manufacturing direction
+99	09:26.92	09:32.92	6.00	still	downloads/cm/cm_Eurofighter_Typhoon_Spanish_Air_Force_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · يوروفايتر · 2025	Spanish direction at same level?
+100	09:32.92	09:41.40	8.48	card	graphics/cards/Q7_industry.png	0		from import to production
+101	09:41.40	09:47.22	5.82	video	downloads/dvids/dvids_1025700_marrakech_air_show_2026.mp4	6.8	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:معرض مراكش للطيران · 7 أكتوبر 2026	long-term decision independence
+102	09:47.22	09:52.18	4.96	card	graphics/cards/P_cards4.png	0		drones, munitions, components
+103	09:52.18	09:58.50	6.32	card	graphics/cards/H_infodefensa.png	0		localising production stages
+104	09:58.50	10:07.60	9.10	map	maps/mC_industry.mp4	9.0		real military industry
+105	10:07.60	10:16.00	8.40	card	graphics/cards/L_ladder.png	0		assembly vs licence vs transfer vs independent
+106	10:16.00	10:20.68	4.68	still	downloads/cm/cm_Moroccan_frigate_Mohammed_VI_01_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · الفرقاطة «محمد السادس» · 2026	navy
+107	10:20.68	10:26.38	5.70	still	downloads/cm/cm_Moroccan_F_16C_jpg.jpg	0	credit:Wikimedia Commons | archive:صورة أرشيفية · F-16 مغربية · 2022	air force
+108	10:26.38	10:31.10	4.72	still	downloads/dvids/dvids_img_10002861.jpg	0	credit:DVIDS · وزارة الدفاع الأمريكية (ملكية عامة) | loc:عرض جوي في معرض مراكش 2026	strategic autonomy
+109	10:31.10	10:37.95	6.85	card	graphics/cards/Q8_ecosystem.png	0		engineers, R&D
+110	10:37.95	10:42.66	4.71	card	graphics/cards/E_end.png	0		end card
